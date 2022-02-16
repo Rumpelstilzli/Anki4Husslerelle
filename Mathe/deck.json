@@ -1,0 +1,572 @@
+{
+    "__type__": "Deck",
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "fc5d69f1-8f4e-11ec-b8ce-c423603b5ad7",
+            "deck_config_uuid": "7fe4450e-8f4b-11ec-b4eb-c423603b5ad7",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "paste-010899a3a38b353c6ba8f69bb2fa315a61c8c4d7.jpg",
+                "paste-02292cc82e6c9e2ec60c4e2183f376b9d5fa8594.png",
+                "paste-04b59637c2a015b6a8dc4016252793f948ebb4a1.jpg",
+                "paste-04c725f00fadeb72683a7aaad7477fa170f6f20c.jpg",
+                "paste-0cc1eca3afb93aae948680aa9ee66cb395f1cd49.jpg",
+                "paste-1b87e422fb71793669e1314d82764188d173df3c.png",
+                "paste-1bb4bd8f4dada30b3b39bb7371115312eb01a024.png",
+                "paste-2135c7080ee7b28f233cf891ef6cf59e71219170.jpg",
+                "paste-2e1f735e93193631207f415762f5cf426945de16.jpg",
+                "paste-36e59b709c60fd32c30235ecadabbf6f081a0c06.jpg",
+                "paste-3d120e905e380c137fa372da7d0878e92e159234.png",
+                "paste-4367e213dbae22f8e5bc4bb7fa4482ba276b16ea.jpg",
+                "paste-4960078e915f62080ad7444451076cd4afc92f6d.jpg",
+                "paste-50942cdc2affa565067b5ee7d2dcda81199c7352.jpg",
+                "paste-52cce6ddf900a3ae940f5d03af84d0bacd0611b8.png",
+                "paste-53c15a34abc4fadcc9875bdbb90aa1f7ab4a22f7.jpg",
+                "paste-54e243644f0c4d75724bfe219559bc460527d958.jpg",
+                "paste-5fa5f7a4ff0c1dd82ff2fc2ba1cfa2bf6bbb92c0.jpg",
+                "paste-69e2c05ecba651b3e8d5434539033f824526e3fe.jpg",
+                "paste-6c4b37ce1927c014c52a85b96a0b57f1df0964e3.png",
+                "paste-717d82d7fa7fb95d6d316b61c063f01d7dd966ef.jpg",
+                "paste-7be874964614a99e18a39a6ec780c16964ce64c3.png",
+                "paste-8b91fb73d96decddfa0ce66c0a071fb37da60a14.jpg",
+                "paste-93c96b268a6921eb5a6813937b7c747ea256c2d1.png",
+                "paste-99d1bc6ef6815ab1c7a5692c91ca742a240bec7c.jpg",
+                "paste-a726b33b99ba08e3a4321df0f025f6b4e0e960f2.jpg",
+                "paste-ad2bee8e627c8d528a17dbef73aa7585e39d76bc.jpg",
+                "paste-ae84b4cd1c02e289a1cff4c4cc03cf265a9a8808.png",
+                "paste-aecc16d6c482d73379140e17036c6e9a43f0503d.jpg",
+                "paste-b1091232ed3445222991664f6981437d167f8bd1.jpg",
+                "paste-b138ffb4717db94a8d3a088cd0c9572754904b7d.jpg",
+                "paste-c1c8e086a4c151b2ce56840a1b17598973855ff0.jpg",
+                "paste-d3edf4f723c8deb3a8bdb9ff8f9eb2d6338bfecc.jpg",
+                "paste-d5eec8c7011361384febc002734021677f0b2f31.png",
+                "paste-e08a36009f8389e7179e7cac4c29d0f063e381f8.jpg"
+            ],
+            "name": "Trigonometrie",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "\n<div>\n<div>\n<div>\n<div>\n<div>\n<div><img src=\"paste-7be874964614a99e18a39a6ec780c16964ce64c3.png\"></div>\n</div></div>\n</div></div>\n</div>",
+                        "\n<div>\n<div>\n<div>\n<div>\n<div><div><div>\n<div>\n<div><img src=\"paste-52cce6ddf900a3ae940f5d03af84d0bacd0611b8.png\"></div>\n</div></div></div>\n</div></div>\n</div></div>\n</div>",
+                        ""
+                    ],
+                    "guid": "tm=|&OTN~[",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>\n<div>\n<div>\n<div>\n<div><img src=\"paste-6c4b37ce1927c014c52a85b96a0b57f1df0964e3.png\"></div>\n</div></div>\n</div></div>",
+                        "\n<div>\n<div>\n<div>\n<div><img src=\"paste-1bb4bd8f4dada30b3b39bb7371115312eb01a024.png\"></div>\n</div></div>\n</div>",
+                        ""
+                    ],
+                    "guid": "nG){z7$gv}",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "\n<div>\n<div>\n<div>\n<div><img src=\"paste-d5eec8c7011361384febc002734021677f0b2f31.png\"><br><div>\n<div>\n<div><img src=\"paste-3d120e905e380c137fa372da7d0878e92e159234.png\"></div>\n</div></div></div>\n</div></div>\n</div>",
+                        "\n<div>\n<div>\n<div>\n<div><img src=\"paste-02292cc82e6c9e2ec60c4e2183f376b9d5fa8594.png\"><br><div>\n<div>\n<br>\n</div></div></div>\n</div></div>\n</div>",
+                        ""
+                    ],
+                    "guid": "An<@XR8G]O",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>\n<div>\n<div><img src=\"paste-ae84b4cd1c02e289a1cff4c4cc03cf265a9a8808.png\"></div>\n</div></div>",
+                        "<div>\n<div>\n<div><img src=\"paste-93c96b268a6921eb5a6813937b7c747ea256c2d1.png\"></div>\n</div></div>",
+                        ""
+                    ],
+                    "guid": "sNg(}n(7O5",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<img src=\"paste-b1091232ed3445222991664f6981437d167f8bd1.jpg\">",
+                        "<img src=\"paste-c1c8e086a4c151b2ce56840a1b17598973855ff0.jpg\"><br>Der Kosinus eines Winkels ist der Sinus seinens komplimentär Winkels (und umgekehrt)",
+                        ""
+                    ],
+                    "guid": "H2K4}q5rD[",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<img src=\"paste-d3edf4f723c8deb3a8bdb9ff8f9eb2d6338bfecc.jpg\"><br><img src=\"paste-010899a3a38b353c6ba8f69bb2fa315a61c8c4d7.jpg\">",
+                        "<img src=\"paste-69e2c05ecba651b3e8d5434539033f824526e3fe.jpg\">",
+                        ""
+                    ],
+                    "guid": "LAazBz]?E)",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<img src=\"paste-04b59637c2a015b6a8dc4016252793f948ebb4a1.jpg\"><br><img src=\"paste-ad2bee8e627c8d528a17dbef73aa7585e39d76bc.jpg\">",
+                        "<img src=\"paste-4960078e915f62080ad7444451076cd4afc92f6d.jpg\">",
+                        ""
+                    ],
+                    "guid": "e1stwmfzW?",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Beweise Sinus Additionstheoreum<br><img src=\"paste-2e1f735e93193631207f415762f5cf426945de16.jpg\"><br><img src=\"paste-04c725f00fadeb72683a7aaad7477fa170f6f20c.jpg\"><br><img src=\"paste-b138ffb4717db94a8d3a088cd0c9572754904b7d.jpg\">",
+                        "<img src=\"paste-50942cdc2affa565067b5ee7d2dcda81199c7352.jpg\"><br><img src=\"paste-5fa5f7a4ff0c1dd82ff2fc2ba1cfa2bf6bbb92c0.jpg\">",
+                        ""
+                    ],
+                    "guid": "cGjJs`<`O^",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Beweise&nbsp;<img src=\"paste-aecc16d6c482d73379140e17036c6e9a43f0503d.jpg\"><br><img src=\"paste-8b91fb73d96decddfa0ce66c0a071fb37da60a14.jpg\"><br>",
+                        "<img src=\"paste-53c15a34abc4fadcc9875bdbb90aa1f7ab4a22f7.jpg\">",
+                        ""
+                    ],
+                    "guid": "f+TK24V1:O",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Beweise&nbsp;<br><img src=\"paste-54e243644f0c4d75724bfe219559bc460527d958.jpg\">",
+                        "<img src=\"paste-36e59b709c60fd32c30235ecadabbf6f081a0c06.jpg\">",
+                        ""
+                    ],
+                    "guid": "n-.X9a>KoZ",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Beweise&nbsp;<br><img src=\"paste-717d82d7fa7fb95d6d316b61c063f01d7dd966ef.jpg\">",
+                        "<img src=\"paste-a726b33b99ba08e3a4321df0f025f6b4e0e960f2.jpg\"><br>Die grünen Linien sind gleich gross. Die beiden Sinuse sind gleich",
+                        ""
+                    ],
+                    "guid": "E4y,}zH:qQ",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Beweise<br><img src=\"paste-0cc1eca3afb93aae948680aa9ee66cb395f1cd49.jpg\">",
+                        "<img src=\"paste-e08a36009f8389e7179e7cac4c29d0f063e381f8.jpg\">",
+                        ""
+                    ],
+                    "guid": "QFK8fyS)12",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Beweis<br><img src=\"paste-99d1bc6ef6815ab1c7a5692c91ca742a240bec7c.jpg\"><br><img src=\"paste-4367e213dbae22f8e5bc4bb7fa4482ba276b16ea.jpg\">",
+                        "<img src=\"paste-2135c7080ee7b28f233cf891ef6cf59e71219170.jpg\">",
+                        ""
+                    ],
+                    "guid": "wpmC9g[[$}",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": [
+                        "Beweis"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie rechnet man von deg zu rad?",
+                        "<div>\n<div>\n<div><img src=\"paste-1b87e422fb71793669e1314d82764188d173df3c.png\"></div>\n</div></div>",
+                        ""
+                    ],
+                    "guid": "b)9m6|^l.m",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "fc5ec8f9-8f4e-11ec-91cc-c423603b5ad7",
+                    "deck_config_uuid": "7fe4450e-8f4b-11ec-b4eb-c423603b5ad7",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "Hessische Normalform",
+                    "notes": []
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "fc5f3bb2-8f4e-11ec-a517-c423603b5ad7",
+                    "deck_config_uuid": "7fe4450e-8f4b-11ec-b4eb-c423603b5ad7",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "Kreisgleichung",
+                    "notes": []
+                }
+            ],
+            "crowdanki_uuid": "fc5e02b2-8f4e-11ec-99a8-c423603b5ad7",
+            "deck_config_uuid": "7fe4450e-8f4b-11ec-b4eb-c423603b5ad7",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "paste-1cbba135a31bf89413461a338225361888ffb917.jpg",
+                "paste-2a73f5ab94aa034f29932e31673f0682481e899f.jpg",
+                "paste-338c68c0b1fb1e812035e5826fea10c00e596afa.png",
+                "paste-37993a7dc39557fac1f00aa43868da559e51b4bc.jpg",
+                "paste-3f274b796e4a294699529f7ff1053c92cf5d03f2.png",
+                "paste-482f83c63fb6ca4c7097f4d5c4e57ae07b52eed2.jpg",
+                "paste-4f6bc3bce85c5628896fd1d3e17cbaadd26e020d.jpg",
+                "paste-5a5b717d7e40f6434004a9572cc4e371e56713c5.png",
+                "paste-607d001082560605d3d8257bc337103c805fc1c8.jpg",
+                "paste-6bc310560b5a4c92d6d0c4fda3901a172ba067f0.jpg",
+                "paste-82f0b6478307a36fad3dcc22b981f59fc16fa12e.png",
+                "paste-aedcf993cf1c0b820eec5dd5afa28de468446501.jpg",
+                "paste-b6a5a36141c4f8234f7c7e4006d1c203e49400a3.png",
+                "paste-b7a18aff5b6483f76fc8989fefb63c807c393f51.jpg",
+                "paste-be8d861fb2e205493074a8b3f3ad535b74835423.jpg",
+                "paste-bfff661b5687cfde49bc984be5e6b72d28238147.jpg",
+                "paste-d692c1bd29f2e294501fae3d1f514e9b0ecb8c9c.jpg",
+                "paste-dad1c6e0955cc0852608d688035985a8a82dd424.png",
+                "paste-e4d741b9422597347d3e6b0d190e81582a61c191.jpg",
+                "paste-ea06a08f5c3fc8a373d4ca987dba14853b67dbf4.jpg",
+                "paste-ede6b187a07943d7b4661e87a0bb3af1c1efb91d.png",
+                "paste-fadcc1feb4024ea08bb8f4bdeef343843b341a65.jpg",
+                "paste-fe20fd8dbdb297681220e8887362e9c8ce1d60bb.jpg"
+            ],
+            "name": "Vektorgeometrie",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist der Ebenenvektor?",
+                        "<img src=\"paste-fadcc1feb4024ea08bb8f4bdeef343843b341a65.jpg\"><br>Ebenenvektor = 2d",
+                        ""
+                    ],
+                    "guid": "Hfow~nLRzK",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist der Raumvektor",
+                        "<img src=\"paste-e4d741b9422597347d3e6b0d190e81582a61c191.jpg\"><br><br>Raumvektor = 3d",
+                        ""
+                    ],
+                    "guid": "E$Be6|f,5h",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie wird die Länge eines Vektores bereichnet?",
+                        "<img src=\"paste-be8d861fb2e205493074a8b3f3ad535b74835423.jpg\"><br>Gleiches bei mehrdimensionalen Vektoren",
+                        ""
+                    ],
+                    "guid": "D2/6$UqNSc",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist ein Ortsvektor",
+                        "Ein Vektor, der am Koordinatenursprung startet, heisst \"Ortsvektor\".",
+                        ""
+                    ],
+                    "guid": "Q.v+4+f*vj",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Berechne die skalare Multiplikation des Ortvektors<img src=\"paste-d692c1bd29f2e294501fae3d1f514e9b0ecb8c9c.jpg\">&nbsp;mit 2.",
+                        "<img src=\"paste-b7a18aff5b6483f76fc8989fefb63c807c393f51.jpg\"><br><img src=\"paste-6bc310560b5a4c92d6d0c4fda3901a172ba067f0.jpg\"><br>",
+                        ""
+                    ],
+                    "guid": "q@I(E!iNyf",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Berechne den Einheitsvektor von&nbsp;<img src=\"paste-aedcf993cf1c0b820eec5dd5afa28de468446501.jpg\">",
+                        "<img src=\"paste-482f83c63fb6ca4c7097f4d5c4e57ae07b52eed2.jpg\">",
+                        ""
+                    ],
+                    "guid": "feF%*+B)DW",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist ein \"kanonischer Einheitsvektor\"",
+                        "<img src=\"paste-bfff661b5687cfde49bc984be5e6b72d28238147.jpg\"><br>1 auf einer Ebene",
+                        ""
+                    ],
+                    "guid": "M?tW6O(p3A",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<img src=\"paste-fe20fd8dbdb297681220e8887362e9c8ce1d60bb.jpg\"><br>Berechne a durch die Vektoradditon von v und w<br><img src=\"paste-607d001082560605d3d8257bc337103c805fc1c8.jpg\">",
+                        "<img src=\"paste-37993a7dc39557fac1f00aa43868da559e51b4bc.jpg\">",
+                        ""
+                    ],
+                    "guid": "Iu[*b:@h;V",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<img src=\"paste-4f6bc3bce85c5628896fd1d3e17cbaadd26e020d.jpg\"><br>Berechne durch Vektorsubtraktion Vektor w druch v = (3, 2) und a = (4, -2)",
+                        "w = a -v = (1, -4)",
+                        ""
+                    ],
+                    "guid": "rKU!JCsjm[",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<img src=\"paste-2a73f5ab94aa034f29932e31673f0682481e899f.jpg\"><br>Bestimme Punkt C mithilfe der Teipunktformel. Punkt C Teilt Streke AB mit Verhältnis 3:8",
+                        "Teilpunktformel =&nbsp;<img src=\"paste-1cbba135a31bf89413461a338225361888ffb917.jpg\"><br><img src=\"paste-ea06a08f5c3fc8a373d4ca987dba14853b67dbf4.jpg\">",
+                        ""
+                    ],
+                    "guid": "IWo,*BQizw",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Normierung eines Vektors",
+                        "<ul><li>Die Bildung eines Einheitsvektors</li></ul>",
+                        ""
+                    ],
+                    "guid": "Heg7yght<J",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "\n<div>\n<div><br><img src=\"paste-82f0b6478307a36fad3dcc22b981f59fc16fa12e.png\">Beweise die Formel<br></div>\n</div>",
+                        "\n<div>\n<div>\n<div>\n<div><img src=\"paste-b6a5a36141c4f8234f7c7e4006d1c203e49400a3.png\"></div>\n</div></div>\n</div>",
+                        ""
+                    ],
+                    "guid": "N%&<4.[;gM",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div><img src=\"paste-ede6b187a07943d7b4661e87a0bb3af1c1efb91d.png\"></div>\n</div></div><div>Wie wird die Steigung von h berechnet?</div>\n</div></div>\n</div></div>",
+                        "<div>\n<div>\n<div><img src=\"paste-5a5b717d7e40f6434004a9572cc4e371e56713c5.png\"></div>\n</div></div>",
+                        ""
+                    ],
+                    "guid": "xU`u&(T2!W",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie kann man die Gerade als Vektor ausdrücken?",
+                        "<div>\n<div>\n<table>\n<tbody><tr>\n<td>\n<div>&nbsp;</div>\n</td>\n<td>\n<div></div>\n</td>\n<td>\n<div></div>\n</td>\n<td>\n<div></div>\n</td>\n<td>\n<div></div>\n</td>\n<td>\n<div></div>\n</td>\n</tr>\n<tr>\n<td>\n<div>&nbsp;</div>\n</td>\n<td rowspan=\"5\"><img src=\"paste-3f274b796e4a294699529f7ff1053c92cf5d03f2.png\"></td>\n<td>\n<div></div>\n</td>\n<td>\n<div></div>\n</td>\n<td>\n<div></div>\n</td>\n<td>\n<div></div>\n</td>\n</tr>\n<tr>\n<td>\n<div>&nbsp;</div>\n</td>\n<td>\n<div></div>\n</td>\n<td colspan=\"3\">\n<div><span style=\"font-weight:bold\">&nbsp;Idee: </span></div>\n<ul>\n<li>Mit sog. Stützvektoren auf\n       die Gerade gelangen</li>\n<li>Mit sog. Richtungsvektoren\n       die parallel ist dur Gerade nicht </li>\n</ul>\n<div>Nicht\n  an Gerade verlaufen</div>\n<div>&nbsp;</div>\n<div>So\n  erreicht manPunkt auf Geraden</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>&nbsp;</div>\n</td>\n<td>\n<div></div>\n</td>\n<td>\n<div></div>\n</td>\n<td>\n<div></div>\n</td>\n<td>\n<div></div>\n</td>\n</tr>\n<tr>\n<td>\n<div>&nbsp;</div>\n</td>\n<td>\n<div></div>\n</td>\n<td>\n<div></div>\n</td>\n<td><img src=\"paste-338c68c0b1fb1e812035e5826fea10c00e596afa.png\"></td>\n<td>\n<div></div>\n</td>\n</tr>\n<tr>\n<td>\n<div>&nbsp;</div>\n</td>\n<td>\n<div></div>\n</td>\n<td>\n<div></div>\n</td>\n<td>\n<div></div>\n</td>\n<td>\n<div></div>\n</td>\n</tr>\n</tbody></table>\n<div><img src=\"paste-dad1c6e0955cc0852608d688035985a8a82dd424.png\"></div>\n<div>\n<div>Ist ein Stüzvektor v\ngund ein Richtunsvektor w gegeben, </div>\n<div>kann jeder Punkt auf\nder Gerade in der Ebene mit der obenstehenden Gleichung dargestellt werden.</div>\n</div>\n</div></div>",
+                        ""
+                    ],
+                    "guid": "u|Fue2iH=A",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                }
+            ]
+        }
+    ],
+    "crowdanki_uuid": "fc5d1871-8f4e-11ec-906f-c423603b5ad7",
+    "deck_config_uuid": "7fe4450e-8f4b-11ec-b4eb-c423603b5ad7",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "7fe4450e-8f4b-11ec-b4eb-c423603b5ad7",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Standard",
+            "new": {
+                "bury": true,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 200
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": true,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 2000
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [],
+    "name": "Mathe",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Add Reverse",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic Quizlet",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "all",
+                    [
+                        1,
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Normal",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Reverse",
+                    "ord": 1,
+                    "qfmt": "{{#Add Reverse}}{{Back}}{{/Add Reverse}}"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": []
+}

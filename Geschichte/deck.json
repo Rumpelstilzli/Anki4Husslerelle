@@ -1,0 +1,1240 @@
+{
+    "__type__": "Deck",
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "53f35f5a-8f4f-11ec-a4b3-c423603b5ad7",
+            "deck_config_uuid": "7fe4450e-8f4b-11ec-b4eb-c423603b5ad7",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "paste-6810b07879ef95d96484a43507fafb4a5e465623.jpg"
+            ],
+            "name": "1_18-19 jh + Aufklährung",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Beschriebe die Kerngedanken des Liberalismus (im 19 Jh.)",
+                        "<ul><li>politische Bewegung des fortschrittlichen/progressiven Bürgertums</li><li>Freiheit des Individuums</li><li>Beschränkung der Staatsmacht</li><li>Menschenrechte, Gewaltenteilung Repräsentation der Bevölkerung in der Politik (~meist wurden dennoch Zensuswahlen bevorzugt)</li><li>Freie Marktwirtschaft&nbsp;</li></ul>",
+                        ""
+                    ],
+                    "guid": "r=GqgG,L,.",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Beschriebe die Kerngedanken des Konservatismus",
+                        "<ul><li>Bestehendes Bewahren (konservieren) und auch <b>restaurieren</b></li><li>Befürwortet göttliche Ordnung (König, Klerus, Adel etc).</li></ul>",
+                        ""
+                    ],
+                    "guid": "tT0aDZ<m[i",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind die Kerngedanken des Sozialismus (19 Jh)?",
+                        "<ul><li>Bessere Bedingungen für das Proletariat</li><li>Interlektuelle entwarfen Gesellschaftsmodele nach Grundsatz Gleichheit und Brüderlichkeit</li><li>Glaube an die kommunistische Revolution</li></ul>",
+                        ""
+                    ],
+                    "guid": "xL$DH}acX0",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind die Kerngedanken des Nationalismus?",
+                        "<ul><li>Territorialstaat</li><li>Entstand in Frankreich, verbreitete sich in den <i>Revolutionskriegen</i>&nbsp;in ganz Europa</li><li>\"Nationalismus\nbedeutet, dass man sich mit der Nation identifiziert und andere Zugehörigkeiten\nzurückstellt.\"</li></ul>",
+                        ""
+                    ],
+                    "guid": "n)Ta@g(>e8",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Definieren sie den Begriff \"Absolutismus\"",
+                        "Der Absolutismus ist eine&nbsp;<b>Regierungsform&nbsp;</b>mit einem&nbsp;<b>starken Monarchen</b>&nbsp;an der Spitze, der nach&nbsp;<b>zentralistischer Macht</b>&nbsp;und&nbsp;<b>unbeschränkter Herrschaft</b>&nbsp;strebt, welche er von&nbsp;<b>Gott herleitet</b>. Der Monarch begründet seine Herrschaft somit zumeist religiös (Gottesgnadentum) und ist der Träger der Staatsgewalt.<br><ul><li>Monarch ist nicht durch Gesetze eingeschränkt</li><li>in Frankreich im 17. Jh. – ca. 18. Jh.; hat sich ausgebreitet in Europa<br></li><li>Wurde breit akzepitert weil es <b>Sicherstellung Ruhe und Ordnung </b>versprach (nach Glaubenskriege)</li></ul>",
+                        ""
+                    ],
+                    "guid": "oZrw9Kdc+a",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Stüzen der absolutistischen Herrschaft (Frankreich)",
+                        "<ol><li><b>Stehendes Heer </b>immer einsatzbereit&nbsp;um 1700/10 etwa 400‘000 Mann. -&gt; hohe Staatsausgaben</li><li><b>Die Beamten </b>~1000 Beamten übernahmen Aufgaben der Adligen -&gt; Steuerneintreiben etc.; viele Sachen waren nicht staatlich geregelt (wegen 1000 Beamten)</li><li><b>Der Hof&nbsp;</b>&nbsp;-&gt; Herrschaftszentrale/Entscheidungszentrale; -&gt;(Gesetze/Bestimmungen erlassen) -&gt; Anbindung des Adels -&gt; Kostenpunkt/ Steuertreiber -&gt; Adel und Klerus verloren aber grundsätzlich ihre Macht.</li></ol><b>Zentralisierung/Monopolisierung und Territorialisierung der (Staats-)Gewalt</b>: Die vorher verteilte \nMacht wird zunehmend gebündelt und vom absolutistischen Monarchen geregelt.<br>",
+                        ""
+                    ],
+                    "guid": "k<`zLhyz_n",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist der Merkantilismus?",
+                        "<ul><li><b>Ziel:&nbsp;</b>Gewinnmaximierung der\nStaatskasse</li><li>Umverteilung des Reichtums der\nBevölkerung&nbsp; mit Steuern in die Staatskasse.<br></li><li><b>Positive Handelsbilanz,&nbsp;</b>mehr Export als Import.</li><li>Rohstoffe importieren (billig) mit Zwangsarbeit in Manufakturen zu Fertigwaren -&gt; export (teuer).</li><li><div>Schutzzölle.</div></li><li>Form des <b>Protektionismus</b></li></ul>",
+                        ""
+                    ],
+                    "guid": "ozlmsz^-YQ",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Definiere Begriff \"Aufklährung\"",
+                        "<ul><li><div>Die Aufklärung ist eine Bildungsbewegung</div></li><li><div>Gewaltentrennung -&gt; Demokratie</div></li><li><div>Toleranz</div></li><li><div>Schutz vor Eigentum</div></li><li><div>Trennen von Staat und Kirche</div></li><li><div>Anerkennung der Wissenschaft (Empirismus)</div></li><li><div>&nbsp;Mündigkeit von Bürgern durch obligatorische Schulbildung</div></li></ul>",
+                        ""
+                    ],
+                    "guid": "v,xe(eb8#q",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Staatstheoretische Grundgedanken von <b>Thomas Hobbes</b>&nbsp;",
+                        "<ul><li>Er betont ein totaler Staat, in dem sich alle freiwillig unterwerfen, er hat \"Kampf aller gegen alle\" unterbinden.</li><li><b>Ruhe und Ordnung </b>kann nur durch autoritären Zentralstaat gewährleistet werden.</li><li>Herrscher ist für das Wohl aller verantwortlich</li><li>1588-1679<br></li></ul>",
+                        ""
+                    ],
+                    "guid": "DtP&?jGZRY",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Staatstheoretische Grundgedanken von <b>John Locke</b>",
+                        "<ul><li><div>Gesellschaftsvertrag (Verfassung), der die Regierung schafft.</div></li><li><div>Anspruch auf das <b>eigene Leben</b>, auf die <b>persönliche Freiheit</b>, <b>Besitz des\nErworbenen</b>.</div></li><li><div>Die Regierung kann abgesetzt werden, wenn sie sich nicht an den Gesellschaftsvertrag\nhaltet.</div></li><li><div>Wahlrecht beschränkt durch die Besitzenden = Bürgerstand -&gt;\nZensuswahlrecht (=nur Besitzende dürfen wählen).</div></li><li><div>Er erfand das Prinzip der Gewaltentrennung( aber nur Eekutive und Legislative), feind der Monarchie</div></li><li>Verpflichtet den Staat, die Naturrechte des Menschen zu schützen, die allen von Geburt an \nzustünden. \n-&gt; <i>heute Menschenrechte</i><br></li><li>Zeitlicher Kontext: <b>1632-1704</b></li></ul>",
+                        ""
+                    ],
+                    "guid": "u%=u=7S(u!",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Staatstheoretische Grundgedanken von <b>Charles de Montesquieu&nbsp;</b>",
+                        "<ul><li><div>Gewaltentrennung\n(Legislative, Exekutive, Judikative), aber all dies sollte trotzdem von einem\nMonarchen geführt werden -&gt; <b>konstitutionelle Monarchie</b><br></div></li><li><div>staatliche Macht begrenzen</div></li><li>Die Legislative besteht aus <b>Repräsentanten </b>die, die Volksintressen vertreten. Diese werden vom Volk gewählt.&nbsp;</li><li><div>Gesellschaftsordnung durch Gesetze</div></li><li>Zeitlicher Kontext: <b>1689-1755</b></li></ul>",
+                        ""
+                    ],
+                    "guid": "qv6gza<xmu",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Staatstheoretische Grundgedanken von Jean-Jaques Rousseau&nbsp;",
+                        "<ul><li>Volksherschaft -&gt; Direkte Demokratie</li><li>Vordenker des Anarchismus</li><li>Zeitlicher Kontext: <b>1717-1778</b></li></ul>",
+                        ""
+                    ],
+                    "guid": "yD$cTG6NyJ",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was war Englands Gegenmodell zum Absolutismus?",
+                        "<ul><li>(13 Jh.) Bildung Parlament aus Hochadel und Bürgertum (Ober- und Unterhaus)</li><li>Parlament wirkte bei Gesetzgebung mit + mussten für eine Steuererhöhung zustimmen.</li><li>(beg. 17. Jh) König Jakob I. regierte ohne Parlament, wollte eine absoute Monarchie einführen.</li><li>(1642-46) König Karl I. Bürgerkrieg Parlamentarier vs. Royalisten -&gt; Sieg Parlamentarier Gründung Republik&nbsp;</li><li>1658 Karl II. Putscht Parlament -&gt; Militär greift ein. Karl II. flüchtet, Wilhelm ist König, muss aber Rechte des Parlaments annerkennen(<b>Bill of Rights</b>)</li><li>nach <b>Bill of Rights </b>ist England eine <b>konstitutionelle Monarchie </b>in Parlament Gesetze macht und Steuern bewilligen muss, Monarch bleibt exekutive</li></ul>",
+                        ""
+                    ],
+                    "guid": "P+TRiUri%3",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Schildere Englands Aufstieg zur See- und Kolonialmacht",
+                        "<b>Übersee- und Sklavenhandel:</b><br><ul><li>Seemacht von Englender, Holländer und Franzosen lösten Spanien und Portugal ab.</li><li>End. 17 Jh. Schwerpunkt Handel Baumwolle und Textilien</li></ul><b>Transatlantischer Dreieckshandel</b><br><ul><li>18 Jh. Handel mit Kolonialwaren (Tee, Schokolade, Tabak, Kaffee, Zucker) Produziert von Sklaven auf Plantagen<br></li><li>Kolonialwaren in Afrika gegen Sklaven eingetaust</li><li>Sklaven auf in Kolonien auf Plantagen verfrachtet.</li></ul><b>Englands Wirtschaftspolitik</b><br><ul style=\"\"><li style=\"\">Mitte 17. Jh. Hauptinteresse -&gt; Beherrschung der Meere (Kolonien und Fernhandel)</li><li style=\"\">Nach 7-jährigem Krieg (1756-1763): England stieg zur führenden Macht der Welt auf.</li><li style=\"\">Handel (Import/Export) aus und zu Kolonien ging immer über England.</li></ul><img src=\"paste-6810b07879ef95d96484a43507fafb4a5e465623.jpg\"><br>",
+                        ""
+                    ],
+                    "guid": "i~E&>_OQ^x",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Definiere den Begriff \"Aufklärung\"",
+                        "<ul><li>Mündige Bürger nach Immanuel Kant (selbst zu denken, zu überlegen und Dinge herzuleiten)</li><li>Beweisen statt Glauben, die Welt erklähren durch Wissensschaft statt Bibel - Emphirismus</li><li>Einführung Grundrechte (Verfassung) Gewaltenteilung - Mitbestimmung des Volkes (Demokratiebewegung=</li><li>Glaubensfreiheit -&gt; Trennung von Staat und Kriche</li></ul>",
+                        ""
+                    ],
+                    "guid": "jx3{CPJ:^]",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Definere Monarchie",
+                        "Zumeist durch Erbfolge oder Wahl zur Macht gekommene Herrschaft eines Einzelnen.",
+                        ""
+                    ],
+                    "guid": "Ir5xX!9^+7",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Definiere Staat",
+                        "Politisches Organisationssystem innerhalb festgelegter räumlicher Grenzen zur Wahrung eines \ngeordneten Zusammenlebens (innen) und zum Schutz der Bevölkerung (nach aussen).",
+                        ""
+                    ],
+                    "guid": "v&d)=B3%{6",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Definiere Stände",
+                        "Gesell. Grossgruppen; unterscheiden sich durch: Eigenes Recht, Einkommensart, politische \nStellung, Lebensführung und Ansehen. Prägten die Gesellschaftsordnung des Mittelalters und der \nFrühen Neuzeit. -&gt; Klerus (Geistlichkeit)- Adel – 3. Stand (Bürger und Bauern).",
+                        ""
+                    ],
+                    "guid": "d9I0Aw5XA)",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Definiere Grundherrschaft",
+                        "Herrschaft eines Grundherren über die Menschen, welche auf seinem Grund und \nBoden ansässig sind. Bauern müssen dem Herrn für die Nutzung seines Eigentums Abgaben und \nFrondienste entrichten.",
+                        ""
+                    ],
+                    "guid": "G?(K6=Cob,",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist eine Manufaktur",
+                        "Bezeichnung einer Betriebsform. Erlaubt grosse Mengen von Waren an einer \nProduktionsstätte arbeitsteilig herzustellen.",
+                        ""
+                    ],
+                    "guid": "o.`Sy]$K4>",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind Schutzzölle",
+                        "Zoll, der die heimische Wirtschaft und ihren Absatz schützen soll. Steht im Gegensatz zur \nliberalen Freihandelspolitik.",
+                        ""
+                    ],
+                    "guid": "ED)}x[:C(F",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was waren die \"Bill of Rights\"",
+                        "Englisches Verfassungsdokument von 1689; sicherte Reche des Parlaments.",
+                        ""
+                    ],
+                    "guid": "CteC*Q;Uve",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was war die Konstitutionelle Monarchie",
+                        "Staatsform in der die absolute Macht des Monarchen durch Verfassung \n(Konstitution) beschränkt wird.",
+                        ""
+                    ],
+                    "guid": "JurRQOOT+N",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was war&nbsp;Kolonialismus, Kolonialpolitik",
+                        "Einrichtung von Handelsstützpunkten und Siedlungen in wenig \nentwickelten Ländern, vor allem ausserhalb Europas, sowie deren Inbesitznahme durch militärisch \nüberlegene Staaten seit Ende des 15. Jh..",
+                        ""
+                    ],
+                    "guid": "w{EZYOSr,-",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Definiere Sklave",
+                        "Mensch, der rechtlich als eine Sache gilt und das Eigentum eines anderen Menschen ist.",
+                        ""
+                    ],
+                    "guid": "Eq+o5^i7K1",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist der&nbsp;Empirismus",
+                        "Annahme, dass nur auf Sinneseindrücken und Erfahrung beruhende Ergebnisse wahr \nund überprüfbar sein können.",
+                        ""
+                    ],
+                    "guid": "u1o`T$=@UI",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist der Gesellschaftsvertrag",
+                        "Annahme, dass die Grundlage des gesellschaftlichen Lebens ein vom \nIndividuum mit der Allgemeinheit geschlossener Vertrag sei, dem sich das Individuum freiwillig, aber \nbedingungslos unterwirft.",
+                        ""
+                    ],
+                    "guid": "P,93{^{Uh6",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die&nbsp;Volkssouveränität",
+                        "Prinzip, nach dem das Volk die Herrschaftsgewalt im Staat besitzt",
+                        ""
+                    ],
+                    "guid": "w4ob{NE~%3",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wer beführwortete den Konvervatismus im 19 Jh.?",
+                        "<ul><li>Beführworter des Konservatismus war im 19. Jh Adel, Armee, Kirche, ländliche Bevölkerung</li></ul>",
+                        ""
+                    ],
+                    "guid": "Ihi0a2cJ?!",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Definiere Pietismus",
+                        "Der Pietismus ist nach der Reformation die wichtigste Reformbewegung im kontinentaleuropäischen Protestantismus.",
+                        ""
+                    ],
+                    "guid": "s3],77o-5p",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "53f4e5ef-8f4f-11ec-bca4-c423603b5ad7",
+            "deck_config_uuid": "7fe4450e-8f4b-11ec-b4eb-c423603b5ad7",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "2_USA",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Beschreibe die Besiedlung der Ostküste der USA durch europäische Siedler",
+                        "<ol><li>Gründung James Town, Erste Gen. Randständige Arme, religiöse Minderheiten (katholiken) - viele Starben</li><li>Handel mit Ureinwohner, erste Landwirtschaft</li><li>Expansion nach Westen und Gründung 13 Kolonien&nbsp;</li></ol>",
+                        ""
+                    ],
+                    "guid": "cG3BL9QsXB",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Unterschied Leben amerikanische Kolonisten mit Menschen in Europa",
+                        "<ul><li>Klassenaufstieg durch harte Arbeit</li><li>kein Adel, unabhängige Bauern</li><li>keine Grundherrschaft</li><li>keine Feudalabgaben</li><li>selbstversoger</li><li>Anspruch auf unabhängige <b>Rechtsspruch </b>und <b>unverletzlichkeit Eigentum</b>, <b>Politische Freiheit, Bildung</b></li></ul>",
+                        ""
+                    ],
+                    "guid": "KHB(U<d+?A",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was war der French-Indian War? - Was waren seine Folgen?",
+                        "<b>French-Indian War</b><br><ul style=\"\"><li style=\"\">Krieg gegen Franz. Kolonie in 1756-63</li><li style=\"\">Indianer kämpften mit Franzosen</li><li style=\"\">Englische Kolonien gewannen</li></ul><b>Folgen:</b><br><ul style=\"\"><li style=\"\">Neue Siedlungsgebiete bei Appalachen</li><li style=\"\">Krieg war Kostspielig, England wollte nicht weil Schuldenabbau</li><li style=\"\">Wollte Wirtschaft für eigene Intressen einsetzen</li><li style=\"\">keine politische Repräsentation in England</li></ul>",
+                        ""
+                    ],
+                    "guid": "xiw#f/u(!B",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist das Regierungssystem der USA - speziell \"Checks and Balances\"?",
+                        "<div><b>Checks and Balances</b> (= Überprüfung und Ausgleich) ist die\n<b>Gewaltenteilung</b>, also die Aufteilung in <b>Exekutive</b>, <b>Judikative </b>und <b>Legislative</b>.\nDiese drei Gewalten <b>kontrollieren</b> und <b>regulieren </b>sich <b>gegenseitig</b>, sodass keine\nGewalt mächtiger wird als die anderen. Oberhaupt der Exekutive ist der\nPräsident.&nbsp;</div>",
+                        ""
+                    ],
+                    "guid": "KQHr*3XnMl",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Weshalb wurden Sklaven in die USA importiert, was war ihr Schicksal und wie wirkt sich das auf Heute aus?",
+                        "<b>Verschleppung</b><br><ul style=\"\"><li style=\"\">Teil des Dreieckshandels</li><li style=\"\">Billige Arbeiter für Landwirtschaft</li></ul><b>Ihr Schicksal als Sklaven</b><br><ul style=\"\"><li style=\"\">Nativ Americans starben durch Kranheiten -&gt; Sklaven aus Afrika</li><li style=\"\">Viele starben während der Seereise</li><li style=\"\">Viele starben während der Arbeit aufgrund den schlechten Bedingungen und Gewalt + Krankheiten</li><li style=\"\">Aufgrund Durchmischung keHine Verständigung möglich</li><li style=\"\">Keine Rechte weil Eigentum</li></ul><b>Heutige Situation der Afro-Amerikaner</b><br><ul style=\"\"><li style=\"\">Rassendiskriminierung immer noch vorhanden(z.B Wohnungs-,Arbeitsmarkt, Polizei)</li><li style=\"\">Arbeitslosenquote doppelt so hoch, verdiene 30-40% weniger</li><li style=\"\">Armutsquote höher</li></ul><br>",
+                        ""
+                    ],
+                    "guid": "Q;00PJEY)5",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was war die Frontier- Bewegung?",
+                        "<ul><li>\"schicksale Bestimmung\", göttlicher Auftrag zur Expansion um Freiheit, Demokratie und Zivilisation richtig Pazifik zu verbreiten</li><li>Massaker der Ur-Einwohner</li><li>Frontier- Bewegung auch <i>wo Wildnis auf Zivilisation stosst</i></li></ul>",
+                        ""
+                    ],
+                    "guid": "c}&=DpoYce",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die \"Monroe-Doktrin\"?",
+                        "Langfristige aussenpolitische Strategie:<br><ul><li><b>Non-invention </b>USA mischt sich in keine europäischen Konflikten ein.</li><li><b>Non-colonization&nbsp;</b>forderte ein Ende aller Kolonialisierungsbestrebungen in der westlichen Hemisphäre</li></ul>Er kündigte militärisches Eingreifen an, falls Forderungen missachtet werden",
+                        ""
+                    ],
+                    "guid": "lRM:^w]VAX",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was waren die Ursachen und Auswirkungen des Konfliktes zwischen den Indianer und Siedler(Frontier-Bewegung)",
+                        "<b>Ursachen:</b><br><ul style=\"\"><li style=\"\">Frontierbewegung -&gt; Kreuzende Teritorialansprüche</li><li style=\"\">Zerstörung Lebensgrundlage -&gt; Abschlachtung Bisonherde</li></ul><b>Auswirkung</b><br><ul style=\"\"><li style=\"\">Umsiedlung in Reservate, die immer wieder verkleinert wurden/ oder verkauft aufgrund Armut</li><li style=\"\">Zwang zur politischen und kulturellen Anpassung</li><li style=\"\">Blutvergiessen</li><li style=\"\">Schlechte Bedingungen bis heute präsent</li></ul>",
+                        ""
+                    ],
+                    "guid": "I}B~7yYCF4",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist der Zusammenhang des Goldrausches in Kalifornien und der Eisenbahn",
+                        "Aufgrund des Goldrausch, das Reichtum für alle Versprach entwickelte sich die vergleichsweise <b>unterentwickelte </b>Ost-Kuste rasant. Es wurde Infrastruktur entwickelt, z.B. die Eisenbahn, die gravierende Auswirkungen für Ur-Einwoner",
+                        ""
+                    ],
+                    "guid": "Idl.=gJ8]@",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was waren die Gründe für den USA Bürgerkrieg?",
+                        "<ul><li>Kulturelle, wirtschaftliche und gesellschaftliche Unterschiede</li><li>Norden Industrie, Süden Agrarwirtschaft</li><li>Unterschiedliche Vorstellung Zollpolitik, Norden wollte Schutzzölle führ ihre Industrie, Süden wollte tiefe Zölle für Exportwirtschaft.</li><li>Norden wollte Zentralstaat und süden wollte Freiheit der Einzelstaaten</li><li>Lincon war den Südstaaten zu extrem, bei Wahl traten 7 Südstaaten aus</li><li>Sklaven</li></ul>",
+                        ""
+                    ],
+                    "guid": "f/5e#{dYX-",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wieso haben die Nordstaaten den Bürgerkrieg gewonnen?",
+                        "<ul><li>Norden war dem Süden militärisch (Bevölkerung und Wirtschaftskraft) überlegen</li><li>Süden hoffte auf Unterstützung von GB un FR, erhielt sie aber nicht</li><li>Seeblockade an der Küste der Seestaten unterband Exportwirtschaft und somit die Lebensgrundlage des Südens.</li><li>Nordstaten zerstörten Infrastuktur und so</li></ul>",
+                        ""
+                    ],
+                    "guid": "kv|aPVU<)c",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was waren die Folgen des amerikanischen Bürgerkrieges?",
+                        "<ul><li>Norden diktiert dem Süden</li><li>Landwirtschaftliche zerstörung sorgte für Verbitterung gegenüber Norden</li><li>Sklaverei wurde formal abgeschaft. Realität sah aber anders aus</li></ul>",
+                        ""
+                    ],
+                    "guid": "fAh{o@zZJO",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was waren die Gründe für den amerikanischen Unabhängigkeitskrieg?",
+                        "<ul><li>Unterdrückung: Kolonien mussten&nbsp;<b>Rohstoffe&nbsp;</b>exportieren und&nbsp;<b>verarbeitete Produkte&nbsp;</b>importieren</li><li>England baute&nbsp;<b>Kontrolle&nbsp;</b>nach Krieg gegen \"French indian war\" aus</li><li>behinderung&nbsp;<b>Entwicklung&nbsp;</b>durch<b>&nbsp;Import/Export verbote</b>&nbsp;und&nbsp;<b>Zölle&nbsp;</b>-&gt; um eigene Wirtschaft zu schützen</li><li>keine Vertretung im Londoner Parlament, unterstanden aber ihm und mussten Steuern zahlen</li></ul>",
+                        ""
+                    ],
+                    "guid": "l9hqPLcbCo",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie verlief der Amerikanische Unabhängigkeitskrieg?",
+                        "<ul><li>Parlament führ \"Stamp Act\" ein Steuer für Zeitungen und andere öffentliche Dokumente</li><li>\"Boston Massacre\", Briten töten 5 Zivilisten während eines Aufstandes. Briten ziehen Truppen ab um die Situation zu entscherfen</li><li>Radikale Kolonisten (Boston Tea Party) enterten Schiffe der Ostindian-Company und schmissen Tee von Board. Als Folge dessen eskalierte die Situation</li><li>13 Kolonien + Frankreich vs britische Kolonialmacht</li><li>Unabhängigkeitserklährung</li></ul>",
+                        ""
+                    ],
+                    "guid": "Lerh1|)QBZ",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mit welchen Problemen waren die ersten Siedler der USA anfänglich konfrontiert?",
+                        "<ul><li>Keine dauerhafte Siedlung weil Konflikt mit Einheimischen</li><li>Harte Bedingungen, viele Starben</li><li>Wettstreit zwischen europäsichen Kolonien -&gt; Abhängigkeiten(Spanien und Protugal)</li></ul>",
+                        ""
+                    ],
+                    "guid": "f[AspqV?w!",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Probleme entstanden für die Ur-Einwohner im Kontakt zu den ersten Siedler",
+                        "<ul><li>Änderung Lebensweise durch Handel mit Eurpäern</li><li>keine Resistenz gegen Krankheiten aus Europa</li><li>Streit über Jagdgebiete mit anderen Stämme</li><li>Völkermord</li></ul>",
+                        ""
+                    ],
+                    "guid": "Q?1Df_E5,{",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "53f5d8ea-8f4f-11ec-bfb8-c423603b5ad7",
+            "deck_config_uuid": "7fe4450e-8f4b-11ec-b4eb-c423603b5ad7",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "Erster Weltkrieg",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "53f681ce-8f4f-11ec-9d51-c423603b5ad7",
+            "deck_config_uuid": "7fe4450e-8f4b-11ec-b4eb-c423603b5ad7",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "Imperialismus",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Inwiefern unterscheiden sich Kolonialisms und Imperialismus?",
+                        "Kolonialismus bezeichnet eine Ideologie, die fortschritliche Nationen verpflichtent nicht-fortschrittliche (-&gt; unzivilisierte) zu unterhochen. Dabei wird sich oft auf Gott und so berufen.<br><br>Imperialismus ist gepr-ft von Grössenwahn und dem Streben zur Weltherschaft und Fortführung von Kolonialismus. Der Imperialismus ist geprägt von technischen Kortschritt der den Imperialismus erst ermöglichte (Telegraf, Eisenbahn, Dampfschiffe etc.)<br><br>Der Kolonialismus ist die Vorstufe des Imperialismus. <br>Erst durch die technischen Fortschritte wurde die wirtschaftliche Ausbeutung von unterentwickelten Nationen im grossen Stil ermöglicht.",
+                        ""
+                    ],
+                    "guid": "o}xCS$-%s?",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was waren die Ursachen des Imperialismus?",
+                        "<div><ul><li>Der Glaube an eine moralische Pflicht zum unterjochen von unterentwickelten\nNationen</li><li>Nationalismus =&gt; International angestachelt<br></li><li>Industrialisierung =&gt; Technischer Fortschritt (Industrialisierung)<br></li><li>Ablenkung von inländischen Problemen<br></li><li>Ein ökonomisches Modell, das grossen Reichtum verspricht. Absatzmärkte, Rohstofflieferanten und billige Arbeit</li></ul></div>",
+                        ""
+                    ],
+                    "guid": "ddfYw4CdPR",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was waren die Ursachen für den Imperialismus, den GB vorantrieb?",
+                        "<div>Durch Verlust der Gebiete USA, Kompensation\nanderer Gebiete. </div>\n<div>&nbsp;</div>\n<div>Industrieller Vorsprung</div>\n<div>&nbsp;</div>\nNationalismus",
+                        ""
+                    ],
+                    "guid": "x{(K@+Y273",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was waren Gründe für den Imperialismus den Frankreich vorantrieb?",
+                        "<div>Nach Niederlage gegen Deutschland, Aufwertung des\nNationalbewusstseins durch Expansion, Frankreich brauchte Geld aufgrund Kriegs\nmit Deutschland</div>",
+                        ""
+                    ],
+                    "guid": "o<61kwy.dZ",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was waren die Ursachen für den Belgischen Imperialismus?",
+                        "<div><ul><li>Suche Nationale Identität</li><li>Kulturelle Spannungen&nbsp;</li><li>Grössenwahn: nach der Erlangung der Unabhängigkeit von den\nNiederlanden, war König Leopold II auf der Suche nach einer nationalen\nIdentität. Da Belgien weder eine schlagkräftige Armee noch über eine kriegstüchtige Marine\nverfügte, griff er nach anderen Mitteln. Durch Tricks und Betrug hatte er ca. 450\nStammesfürsten dazu gebracht ihr Land zu verkaufen. Darauf errichtete er eine brutale\nSchreckensgesellschaft, der ca. 10 Millionen Menschen zum Opfer fielen. Die\nEinheimischen mussten in Minen oder auf Kautschukplantagen arbeiten.</li></ul></div>\n\n\n\n\n\n\n\n\n",
+                        ""
+                    ],
+                    "guid": "BTSl*75Zh?",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was waren die Ursachen für den rusischen Imperialismus?",
+                        "Russland wollte einen anderen Seezugang als der im Norden. Mehrere\nExpansionszüge zum Mittelmeer über den Balkan oder ins indische Meer über Afghanistan\nwürden durch Bündnisse vernichtend geschlagen",
+                        ""
+                    ],
+                    "guid": "z.oVWG1vjh",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was waren die Ursachen für den Russischen Imperialismus?",
+                        "Russland wollte einen anderen Seezugang als der im Norden. Mehrere\nExpansionszüge zum Mittelmeer über den Balkan oder ins indische Meer über Afghanistan\nwürden durch Bündnisse vernichtend geschlagen",
+                        ""
+                    ],
+                    "guid": "bv`OA5;9G`",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Betrieb die USA Imperialismus?",
+                        "Die Monroe Doktrine besagte, dass die USA keine Kolonien besitzen durfte.\nDas war für die USA auch gar nicht wichtig. Sie betrieben rein ökonomischen\nImperialismus -&gt; <b>Dollarimperialismus</b>",
+                        ""
+                    ],
+                    "guid": "kxKS2a0XJi",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Betrieb Japan Imperialismus",
+                        "<table>\n<tbody><tr>\n<td>\n<div>Durch die USA wurde Japan militärisch gezwungen\n  die Handelsbarkikaden zu öffnen. -&gt; Industrialisierung -&gt; kollonien</div>\n</td>\n</tr></tbody></table>",
+                        ""
+                    ],
+                    "guid": "zC(xh<aooy",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was waren die Ursachen für den deutschen Imperialismus?",
+                        "Durch die spät entstandene Nation waren sie im Rückstand\nund mussten ihren Anspruch der Weltmachstellung für sich gewinnen.<br><ul><li>&nbsp;Bissmark stellte private Kollonien unter staatsschutz</li><li>Kasiser William wollte \"einen Platz an der Sonne\"</li></ul>",
+                        ""
+                    ],
+                    "guid": "ixSB[V4en*",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hatte die Schweiz Kolonien?",
+                        "Nur private hatten Kollonien - nicht staatliche Kolonien -&gt; wirtschafts kollonialismus",
+                        ""
+                    ],
+                    "guid": "O-vYJaWjih",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie kolonialisierte Belgien den Kongo?",
+                        "Private Forschungsgesellschaft nach Kongo geschickt und sie mit Tricks und\nBetrug in das Land einzudringen (zu erobern)<br><br>-&gt; alles im Namen von König Leopold II, Kongo war in seinem Privatbesitz",
+                        ""
+                    ],
+                    "guid": "hJD[5Kev[a",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "53f76c25-8f4f-11ec-b7d8-c423603b5ad7",
+            "deck_config_uuid": "7fe4450e-8f4b-11ec-b4eb-c423603b5ad7",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "WIN_20211001_11_02_40_Scan-e80b05ebe13c6aec1d76c41b04f5126612085db1.jpg"
+            ],
+            "name": "Industrialisierung",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was war die Industrialisierung?",
+                        "bezeichnet eine wirtschaftliche Entwicklung, die um 1770 in Grossbritannien begann  statt der Landwirtschaft wurden nun Industrie und Gewerbe zu den wichtigsten Wirtschaftssektoren",
+                        ""
+                    ],
+                    "guid": "K=fHFNoZLF",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Industrielle Revolution?",
+                        "bezeichnet nur die erste Phase der Industrialisierung -&gt; eine radikale Veränderung von Wirtschaft und Gesellschaft (Wertschöpfung stieg, Anzahl der Arbeitsplätze stieg, die Bevölkerung wuchs)",
+                        ""
+                    ],
+                    "guid": "x5oiXh?Nt$",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Übersicht Industrielle Revolutionen (Bild)",
+                        "<img src=\"WIN_20211001_11_02_40_Scan-e80b05ebe13c6aec1d76c41b04f5126612085db1.jpg\">",
+                        ""
+                    ],
+                    "guid": "MbyrAXxy,8",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was bedeutet \"Gleichzeitigkeit des Ungleichzeitigen\" - im Bezug auf die Industrialisierung?",
+                        "Der Prozess der Industrialisierung ist stark vom Land oder geografischen Region unterschiedlich.&nbsp;",
+                        ""
+                    ],
+                    "guid": "eyN3BJOH3k",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was waren die Gründe für ein verspäteten Verlauf der Industrialisierung der Schweiz gegenüber England",
+                        "<ul><li><b>Politische Lage</b> -&gt; England stabil (Vereinigtes Königreich); Schweiz labil (flickenteppich)</li><li><b>Energieträger </b>-&gt; Beginn ind. rev. war <b>Steinkohle </b>wichtig Schweiz hatte keine. Ab 19 Jh. war <b>Wasserkraft </b>ein wichtigerer Energieträger, der war in der Schweiz da.</li><li>England als See- /Kolonialmacht guter Zugang zu <b>Rohstoffen</b></li><li>Schweiz aufgrund Agrarwirtschaft stark auf Import/Export abhängig</li></ul>",
+                        ""
+                    ],
+                    "guid": "gQszGEfm9#",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist mit der Sozialen Frage im Bezug auf die Industrialiserung gemeint?",
+                        "Die Industrialisierung leitete auch einen Wandel in der Gesellschaft und Kultur ein. Ab 1840 wurde die soziale Frage diskutiert (Kinderarbeit, lange Arbeitszeiten, ungesunde Arbeitsverhältnisse). Um die Folgen der Industrialisierung zu bekämpfen, wurden Gewerkschaften, Parteien und andere Organisationen<br>gegründet",
+                        ""
+                    ],
+                    "guid": "tD4mWx3]^P",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Methodische Frage, was gilt zu beachten mit dem Umgang von Statistiken?",
+                        "<ul><li><b>Wie </b>wurden die Daten erfasst? <b>Wer </b>hat die Daten erfasst und <b>warum</b>? -&gt; <b>Quellenkritik</b></li><li>Welche <b>Aussagen </b>lässt die Statistik zu (Zeit)? -&gt; <b>Aussagewert</b></li></ul>",
+                        ""
+                    ],
+                    "guid": "sG16o+K.~f",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "53f85535-8f4f-11ec-a7bd-c423603b5ad7",
+            "deck_config_uuid": "7fe4450e-8f4b-11ec-b4eb-c423603b5ad7",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "WIN_20211126_10_10_43_Scan.jpg"
+            ],
+            "name": "Nationalismus",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wieso sind liberale und nationale Revolutionen und Aufstände zeitlich gruppiert?<br><img src=\"WIN_20211126_10_10_43_Scan.jpg\">",
+                        "<ul><li>Revoulutionäre waren international Vernetzt</li><li>Revolutionäre waren mobil und nahmen an Aufständen in anderen Orten teil</li><li>Erfolg zeigte möglichkeiten auf</li></ul>",
+                        ""
+                    ],
+                    "guid": "H+EQ|}/iA7",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "53f8f409-8f4f-11ec-9457-c423603b5ad7",
+            "deck_config_uuid": "7fe4450e-8f4b-11ec-b4eb-c423603b5ad7",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "Schweizer Geschichte",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Von wo kommt die Schweizer Flage?",
+                        "Design kommt aus 16jh. offiziell 1848",
+                        ""
+                    ],
+                    "guid": "h*+N`BkR<t",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wann war die Zeit der Helvetik",
+                        "1798 - 1803",
+                        ""
+                    ],
+                    "guid": "AW?>TLWH<.",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wann war die Mediation der Schweiz?",
+                        "1803 - 1814",
+                        ""
+                    ],
+                    "guid": "fcJ@qmH|MY",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wann war die Restauration der Schweiz?",
+                        "1815-1830",
+                        ""
+                    ],
+                    "guid": "DTO:v>Z#7]",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wann war die Regeneration der Schweiz?",
+                        "1830 - 1848",
+                        ""
+                    ],
+                    "guid": "F<4P}nsu<c",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche politische Organisation hatte die Helvetik?",
+                        "In der Helvetik entstand ein <b>Zentralisitischer Staat</b> durch eine Revolution der Untertangebieten, welcher von Frankreich unterstützt wurde. Die Hauptstadt der Helvetik war <b>Aarau.</b>",
+                        ""
+                    ],
+                    "guid": "rxbH{wlVYl",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Beziehung hatten Frankreich und die Schweiz (Gründung Schweiz)?",
+                        "<ul><li>Nach dem Putsch des \"Ancien Regime\" mithilfe der französischer Armee, plünderung der Staatsfinanzen durch Frankreich.</li><li>Demokratisierung durch französische Direktorialverfassung von 1795.</li><li>Sehr hohe Belastung/grosses Elend für die Bevökerung durch Einquartierung von Armeen u.a Frankreich.</li></ul>",
+                        ""
+                    ],
+                    "guid": "IJyXW/<=&(",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Warum ist die Helvetik gescheitert?",
+                        "<ul><li>politische instabilität; Zwei Fraktionen Zentralstaat und Förderalismus die sich gegenseitig putschten</li><li>Bankrott</li><li>Napoleon intervenierte</li></ul>",
+                        ""
+                    ],
+                    "guid": "t{uTi@L(Tx",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was war die politische Organisiation der schweizerischen Mediationszeit?",
+                        "Staatenbund von 17 Voll- und 4 Halbkantonen",
+                        ""
+                    ],
+                    "guid": "ha_tx[CY,F",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Entwicklungen in der Mediationszeit?",
+                        "<ul><li><table>\n<tbody><tr>\n<td>\n<div><li>Indirektes Wahlverfahren und Zensus setzte Elite wieder an Herrschaft<br></li></div>\n<div><li>In alten Landorten wurden vorrevolutionäre Zustände wieder\n  hergestellt (kein Individualrecht)</li><li>innenpolitische Ruhe</li></div>\n</td>\n</tr></tbody></table></li></ul>",
+                        ""
+                    ],
+                    "guid": "l1GlPyvlQq",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Warum ist die Mediation in der Schweiz gescheitert?",
+                        "Die Mediationszeit endete mit dem Niedergang Napoleons. Mit dem Wienerkongress wurde die Mediation beendet",
+                        ""
+                    ],
+                    "guid": "y(En/7f=3$",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was hatte Frankreich für eine Rolle in der Mediationszeit?",
+                        "Napoleon beendete die Putschversuche zwischen Liberalen und Konservativen mit der Einführung eines förderalisitischen Systemes",
+                        ""
+                    ],
+                    "guid": "gGV?Q3#0Xs",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hatten Kantöne während der Mediation Rechte",
+                        "ja, es waren Souveräne Kantone",
+                        ""
+                    ],
+                    "guid": "bV6q5^V)&?",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was war die politische Organisation der Schweiz in der Restaurationszeit?",
+                        "Nach Beschluss im <b>Winerkongress </b>wurde das Ancien Regime quasi wieder eingeführt Unterschiede:<br><ul><li>Bern erhielt nicht alle Untertanengebiete -&gt; Aargau</li></ul>",
+                        ""
+                    ],
+                    "guid": "g=G2,B2A)v",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was waren Merkmale der Restaurationszeit in der Schweiz?",
+                        "<div>-Wiederherstellung\nder alten vorrevolutionäre Zustände</div>\n<div>-Gewisse Kantone\nz.B. Bern wollten Untertan – Gebiete zurück </div>\n<div>Neuer Bundesvertrag\n</div>\n<div>-Neue Struktur\nder Schweiz nach Napoleons Machtübernahme wurde von den Siegermächten im Wiener\nKongress besprochen und entschieden</div>\n<div>-Siegermächte entschieden,\ndass die Schweiz neutral wird (Pufferzone)</div>",
+                        ""
+                    ],
+                    "guid": "qM)MC+Aq|:",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Schweiz Restauration - Einfluss ausländischer Mächte",
+                        "<ul><li>Keiserreich von Österreich (Konservativ)</li><li>Wiener Kongress - Entscheid über die Struktur der Schweiz</li></ul>",
+                        ""
+                    ],
+                    "guid": "hREdfNJ!h`",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Restauration - Macht der Kantone",
+                        "<table>\n<tbody><tr>\n<td>\n<div>&nbsp;-Kantone konnten wieder einzeln untereinander Abkommen abschliessen –\n  sofern es den gemeinsamen Bund nicht schadet</div>\n<div>-Die Macht der Kantone\n  war sehr gross</div>\n<div>&nbsp;</div>\n</td>\n</tr></tbody></table>",
+                        ""
+                    ],
+                    "guid": "3t:i8[nd*",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Regeneration - politische Organisation?",
+                        "<div>-Staatenbund</div>\n<div>-in Richtung Bundesstaat</div>\n-eher liberal --&gt; Mehrheit der Kantone",
+                        ""
+                    ],
+                    "guid": "Q0Mn%x7-_",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Regeneration - Merkmale",
+                        "<div>-Bildungsoffensive\nhinterfragt Kirche<span style=\"color: rgb(32, 33, 36);\"></span></div>\n<div>-Nationalbewusstsein\n(Schützenfeste, Studentenverbindungen)</div>\n<div>-Sitze des\nParlaments werden prozentual aufgeteilt (Proporzwahl) auf kantonaler Ebene,\nteilweise</div>\n<div>-Spaltung der\nLiberalen in:</div>\n<div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\nGemässigte Liberale</div>\n<div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\nRadikale Liberale</div>",
+                        ""
+                    ],
+                    "guid": "L|M9Dz5:~i",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was war die Rolle der Schweiz während der Regeneration?",
+                        "<ul><li>Liberale Insel im konservativen Europa</li><li>Immigration von Politischen/konfessionellen Flüchtlingen</li></ul>",
+                        ""
+                    ],
+                    "guid": "HOA<_B8&YQ",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was war der Sonderbund - wann ist er Zeitlich einzuordnen?",
+                        "Der <b style=\"\">Sonderbund</b> war ein Verteidigungsbündnis der sieben <a href=\"https://de.wikipedia.org/wiki/R%C3%B6misch-katholische_Kirche\" style=\"\">katholischen</a> <a href=\"https://de.wikipedia.org/wiki/Schweiz\" style=\"\">Schweizer</a> <a href=\"https://de.wikipedia.org/wiki/Kanton_(Schweiz)\" style=\"\">Kantone</a> <a href=\"https://de.wikipedia.org/wiki/Kanton_Luzern\" style=\"\">Luzern</a>, <a href=\"https://de.wikipedia.org/wiki/Kanton_Uri\" style=\"\">Uri</a>, <a href=\"https://de.wikipedia.org/wiki/Kanton_Schwyz\" style=\"\">Schwyz</a>, <a href=\"https://de.wikipedia.org/wiki/Unterwalden\" style=\"\">Unterwalden</a>, <a href=\"https://de.wikipedia.org/wiki/Kanton_Zug\" style=\"\">Zug</a>, <a href=\"https://de.wikipedia.org/wiki/Kanton_Freiburg\" style=\"\">Freiburg</a> und <a href=\"https://de.wikipedia.org/wiki/Kanton_Wallis\" style=\"\">Wallis</a> und bestand von 1845 bis 1847",
+                        ""
+                    ],
+                    "guid": "d9.VW&hVat",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Definiere <i>förderalistisch</i>",
+                        "Förderalismus ist das Gestaltungsprinzipes des Staates indem mehrere politische Organe Mitbestimmungsrecht haben",
+                        ""
+                    ],
+                    "guid": "nxfm8}|_@c",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist ein Majorzwahlsystem?",
+                        "=&gt; USA Wahlsystem<br><br>Beim <b><em>Majorzwahlsystem</em> </b>ist pro <i>Wahlkreis</i> nur ein(e) Abgeordnete(r) zu wählen.\n    Der Ausgang der Wahl wird ganz wesentlich dadurch bestimmt, welche <i>Wählerschichten</i>\n    in den einzelnen <i>Wahlkreisen</i> eine - gegebenenfalls auch nur sehr knappe Mehrheit haben.\n    Die Art, wie die Grenzen der Wahlbezirke gezogen werden [so genannte <em>Wahlkreisgeometrie</em>]\n    verschafft gar nicht allzu selten einer Partei aufgrund unterschiedlicher Grösse oder Verteilung der\n    <i>Wählerschichten</i> auf die <i>Wahlkreise</i> eine satte Mehrheit im Parlament, obwohl\n    die unterlegene(n) Partei(en) im ganzen Land insgesamt mehr Wählerstimmen erhalten haben - \n    nur eben  in den \"falschen\" Wahlkreisen. Dem <i>Majorzsystem</i> haftet somit\n    nicht ganz zu Unrecht der Beigeschmack von <i>Manipulation</i> und <i>Wahlbetrug</i> an.\n    Umgekehrt  begünstigt das <em>Majorzwahlrecht</em>\n    die Wahl <b>starker Persönlichkeiten</b>.",
+                        ""
+                    ],
+                    "guid": "i8S1|ufM89",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist ein Proporzwahlsystem?",
+                        "Das <em>Proporzwahlsystem</em> geht davon aus, dass <i>nicht einzelne Abgeordnete</i> für \n    die Politik entscheidend sind, sondern politische <b>Parteien</b> und ihre <b>Programme</b>.\n    Deshalb werden beim <em>Proporzwahlrecht</em> grössere <i>Wahlkreise</i> gebildet, in denen\n    mehrere Sitze zu vergeben sind. Die Sitze werden <b>proportional</b> zur Anzahl der für eine\n    bestimmte Partei abgegebenen Stimmen unter die Parteien verteilt.\n    Damit werden  <i>Manipulationen durch Wahlkreisarithmetik weitgehend ausgeschlossen</i> und\n    auch <i>kleinere Parteien haben eine faire Chance</i>, entsprechend der Stärke ihrer Wählerbasis\n    gewählt zu werden.",
+                        ""
+                    ],
+                    "guid": "xI{gC2|J{V",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                }
+            ]
+        }
+    ],
+    "crowdanki_uuid": "53f2ea18-8f4f-11ec-a684-c423603b5ad7",
+    "deck_config_uuid": "7fe4450e-8f4b-11ec-b4eb-c423603b5ad7",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "7fe4450e-8f4b-11ec-b4eb-c423603b5ad7",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Standard",
+            "new": {
+                "bury": true,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 200
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": true,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 2000
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        }
+    ],
+    "desc": "Please see the <a href='https://ankiweb.net/shared/info/872700665'>shared deck page</a> for more info.",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [],
+    "name": "Geschichte",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Add Reverse",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic Quizlet",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "all",
+                    [
+                        1,
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Normal",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Reverse",
+                    "ord": 1,
+                    "qfmt": "{{#Add Reverse}}{{Back}}{{/Add Reverse}}"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": []
+}

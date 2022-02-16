@@ -1,0 +1,2731 @@
+{
+    "__type__": "Deck",
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "65bd17b2-8f4f-11ec-9485-c423603b5ad7",
+                    "deck_config_uuid": "7fe4450e-8f4b-11ec-b4eb-c423603b5ad7",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "Chemie 501 Kapitel 1 S. 6 - 26 Atombau",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Nennen Sie wichtige Kenneigenschaften von Stoffen.",
+                                "Farbe, Glanz, Härte, Verformbarkeit, Geschmack, Geruch, Dichte, Löslichkeit, Leitfähigkeit für Strom und Wärme, Siedepunkt Schmelztemperatur",
+                                ""
+                            ],
+                            "guid": "LnI7qk9nv*",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Beliben Teilchen beim Gittermodel immer an der gleichen Stelle?",
+                                "Eine wesentliche Tatsache kann das Gittermodell allerdings nicht veranschaulichen: Die Teilchen <b>schwingen </b>an ihrem Gitterplatz. Sie bewegen sich dabei von ihrem Gitterplatz aus in alle Richtungen und kehren immer wieder zu ihm zurück",
+                                ""
+                            ],
+                            "guid": "F.t=s=zF|D",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie lautet der Satz von Avrogado?",
+                                "Gleiche Volumina verschiedener Gase enthalten bei gleicher Temperatur und gleichem Druck die gleiche Anzahl Teilchen.",
+                                ""
+                            ],
+                            "guid": "K}(+RH_aet",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": [
+                                "Merksatz"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Eingenschaft hat ein Stoff, wenn er nicht durchsichtig ist?",
+                                "Er ist mit wenigen Ausnahmen heterogen",
+                                ""
+                            ],
+                            "guid": "EyLl1mvWiu",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "65bd8d26-8f4f-11ec-a4d5-c423603b5ad7",
+                    "deck_config_uuid": "7fe4450e-8f4b-11ec-b4eb-c423603b5ad7",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "quizlet-8rVHUrgop9282pFScrc5Dw.png",
+                        "quizlet-GnQt5Hdi90-UOTEEVc0-WA.png"
+                    ],
+                    "name": "Chemie 501 Kapitel 3 S. 43 - 53 Chemische Reaktionen",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was geschieht bei chemischen Reaktionen?",
+                                "Bei chemischen Reaktion reagieren Ausgangsstoffe (Edukte) zu neuen Endstoffen (Produkte), Stoffe werden in neue Stoffe mit neuen Eigenschaften umgewandelt.",
+                                ""
+                            ],
+                            "guid": "z^oI[/fWGL",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was drückt die innere Energie aus?",
+                                "Bei einer Verbrennung wird Energie in Form von Wärme an die Umgebung abgegeben. Diese Energie muss zu Beginn der Reaktion als innere Energie in den Ausgangsstoffen enthalten sein. Die Ausgangsstoffe sind energiereicher als die Endstoffe. Die Energiedifferenz wird bei der Reaktion frei und hauptsächlich in Form von Wärme an die Umgebung abgegeben. Man bezeichnet sie als Reaktionswärme.",
+                                ""
+                            ],
+                            "guid": "Bt<67g,|Xz",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Definieren Sie exotherme Reaktion.",
+                                "Bei einem exothermen Vorgang wird Energie frei, weil die Endstoffe energieärmer sind als die Ausgangsstoffe. Die bei einer chemischen Reaktion umgesetzte Energie wird auch als Reaktionswärme bezeichnet<div><br></div><div><img src=\"quizlet-GnQt5Hdi90-UOTEEVc0-WA.png\"></div>",
+                                ""
+                            ],
+                            "guid": "HMY?=`)#Qc",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Definieren Sie endotherme Reaktion.",
+                                "Bei einem endothermen Vorgang muss Energie zugeführt werden, da die Produkte energiereicher sind als die Edukte. Die bei einer chemischen Reaktion umgesetzte Energie wird auch als Reaktionswärme bezeichnet<div><br></div><div><img src=\"quizlet-8rVHUrgop9282pFScrc5Dw.png\"></div>",
+                                ""
+                            ],
+                            "guid": "O1RtGT!E!w",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Definieren Sie Analyse.",
+                                "Die Zersetzung einer Verbindung heisst Analyse.",
+                                ""
+                            ],
+                            "guid": "OZ(8DFOoqb",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Zählen Sie die gängisten endothermen Analyse-Formen auf.",
+                                "• Elektrolyse: Energiezufuhr durch elektrischen Strom <br><br>• Thermolyse: Energiezufuhr durch Wärme<br><br>• Fotolyse: Energiezufuhr durch Licht",
+                                ""
+                            ],
+                            "guid": "KGe[tnJ9TM",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was besagt die Synthese.",
+                                "Eine Synthese bezeichnet in der Chemie grundsätzlich einen Vorgang, in dem Elemente in einem bestimmten Massenverhältnis zusammen zu einer Verbindung reagieren.",
+                                ""
+                            ],
+                            "guid": "NGdTW0`wEa",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "65be262a-8f4f-11ec-9040-c423603b5ad7",
+                    "deck_config_uuid": "7fe4450e-8f4b-11ec-b4eb-c423603b5ad7",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "quizlet-hnB8mrc6JLW4T1riTTSPsw.png"
+                    ],
+                    "name": "Chemie 501 Kapitel 4 S. 54 - 62",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Unterschied Reinstoffe/Gemische.",
+                                "<div><img src=\"quizlet-hnB8mrc6JLW4T1riTTSPsw.png\"></div>",
+                                ""
+                            ],
+                            "guid": "I7M8%R-0X]",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "65bf108b-8f4f-11ec-a569-c423603b5ad7",
+                    "deck_config_uuid": "7fe4450e-8f4b-11ec-b4eb-c423603b5ad7",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "quizlet-Fw5l3HU54cnnBEeXcyu7Yg.png",
+                        "quizlet-tsSIpqG3zmlYmds0nj95qg.png",
+                        "quizlet-zYaWL9SjNq.CxlRmc9QHQw.png"
+                    ],
+                    "name": "Chemie 501 Kaptiel 2 501 2 S. 26 - 42",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist eine Phase?",
+                                "Homogenes Gemisch.<br><br>Ein Stoff aus zueinander identischen Teilchen oder ein Stoffgemisch mit sehr ähnlichen Eigenschaften.",
+                                ""
+                            ],
+                            "guid": "E,vfZY,w]a",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie werden Stoffgemische getrennt?",
+                                "Für die Trennung von Stoffgemischen werden sogenannte physikalische Trennmethoden, auch Fraktioniermethoden genannt, angewandt",
+                                ""
+                            ],
+                            "guid": "Mb>Ts$(2f`",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sind Reinstoffe?",
+                                "Stoff, der nur aus einer Stoffart besteht, hat genau definierte Eigenschaften. Man unterscheidet Elemente und Verbindungen",
+                                ""
+                            ],
+                            "guid": "F>SgITA[`1",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist ein Gemenge?",
+                                "Heterogenes Stoffgemisch.<br><br>Besteht aus:<br><br>Zwei oder mehrere Feststoffe gemischt<br><br>Bsp.:<br><br>Eisennägel im Sand, Granitstein",
+                                ""
+                            ],
+                            "guid": "n_X>C:k-9b",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist eine Suspension?",
+                                "Heterogenes Stoffgemisch.<br><br>Besteht aus:<br><br>Feststoffe in einer Flüssigkeit<br><br>Bsp.:<br><br>Aufgeschlämmter Sand in einem Fluss nach einem Gewitter",
+                                ""
+                            ],
+                            "guid": "kfr!zW<a4o",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist eine Emulsion?",
+                                "Heterogenes Stoffgemisch.<br><br>Besteht aus:<br><br>Flüssigkeitstropfen in einer Flüssigkeit<br><br>Bsp.:<br><br>Öltröpfchen im Wasser, Fettaugen in der Suppe",
+                                ""
+                            ],
+                            "guid": "os0+=RnB#O",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist eine Legierung?",
+                                "Homogenes Stoffgemisch.<br><br>Besteht aus:<br><br>Zwei oder mehr Arten von Metallen<br><br>Bsp.:<br><br>Messing (Legierung aus Kupfer und Zink), Sterlingsilber (Legierung aus Silber und Kupfer oder anderen Metallen)",
+                                ""
+                            ],
+                            "guid": "QDKx0T=933",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist eine Lösung?",
+                                "Homogenes Stoffgemisch.<br><br>Besteht aus:<br><br>Feststoff in Flüssigkeit<br>Zwei oder mehr Flüssigkeiten<br>Gas in Flüssigkeit<br><br>Bsp.:<br><br>Salzwasser, Zuckerwasser, Alkohol in Wasser, Sauerstoff in Flüssen, Seen und im Meer",
+                                ""
+                            ],
+                            "guid": "vi[uaHI0u!",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sagt die Löslichkeit aus?",
+                                "Die Löslichkeit eines Feststoffs gibt Auskunft darüber, wie viel davon sich in einer bestimmten Portion des Lösungsmittels(Bsp. Wasser) auflösen lässt. Sie wird in g/ L Lösung oder in g/ 100 g Lösung angegeben und ist vom Lösungsmittel und von der Temperatur abhängig.",
+                                ""
+                            ],
+                            "guid": "mAQGH:Z3UG",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wozu dient die Extraktion von Lösungen?",
+                                "Durch Extraktion mit einem geeigneten Lösungsmittel kann ein Stoff aufgrund seiner besseren Löslichkeit aus einem Stoffgemisch herausgelöst werden<div><br></div><div><img src=\"quizlet-Fw5l3HU54cnnBEeXcyu7Yg.png\"></div>",
+                                ""
+                            ],
+                            "guid": "zqj^dv&/R*",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wozu dient die einfache Destillation?",
+                                "Durch einfache Destillation kann eine Lösung zweier oder mehrerer Flüssigkeiten getrennt werden, wenn sich diese in der Siedetemperatur deutlich unterscheiden.<div><br></div><div><img src=\"quizlet-zYaWL9SjNq.CxlRmc9QHQw.png\"></div>",
+                                ""
+                            ],
+                            "guid": "Q{(WAPEN5$",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wozu dient die fraktionierte Destillation?",
+                                "Bei der fraktionierten Destillation wird die Trennung durch wiederholtes Destillieren der einzelnen Fraktionen oder durch die Verwendung einer Fraktionierkolonne verbessert. Auf ihrer vergrösserten Innenfläche kondensiert der grösste Teil des Dampfs der mitgeschleppten höher siedenden Komponenten und tropft in den Kolben zurück<div><br></div><div><img src=\"quizlet-tsSIpqG3zmlYmds0nj95qg.png\"></div>",
+                                ""
+                            ],
+                            "guid": "DW|Jk<Hi*B",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Erläutern Sie Adsorption.",
+                                "Anlagerung an eine feste Oberfläche; kann zur Abtrennung von Stoffen aus Gemischen angewendet werden. (Gasmasken, Chromatographie)",
+                                ""
+                            ],
+                            "guid": "Dsb:q2c&@)",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Definieren Sie <b>Absorption</b>.",
+                                "Chemische Absorption beschreibt den Prozess der Aufnahme oder des „Lösens\" eines Atoms, Moleküls oder eines Ions in einer anderen Phase.",
+                                ""
+                            ],
+                            "guid": "r/$:I<:jDm",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Nennen sie die 1te Hauptgruppe",
+                                "Akalimetalle",
+                                ""
+                            ],
+                            "guid": "OSP^LvW>*Z",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        }
+                    ]
+                }
+            ],
+            "crowdanki_uuid": "65bc788a-8f4f-11ec-9c7f-c423603b5ad7",
+            "deck_config_uuid": "7fe4450e-8f4b-11ec-b4eb-c423603b5ad7",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "CH 501",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "65c0e2b7-8f4f-11ec-8a4b-c423603b5ad7",
+                    "deck_config_uuid": "7fe4450e-8f4b-11ec-b4eb-c423603b5ad7",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "quizlet-YzuI6rIrp4sFESP.Z9sknw.png"
+                    ],
+                    "name": "Chemie 502 2/4 Atombau [...] Kapitel 1 S. 5 - 13",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie ist die atomare Masseneinheit 1u definiert?",
+                                "Die atomare Masseneinheit 1 u ist definiert als 1/ 12 der Masse eines Kohlenstoff-Atoms.<div><br></div><div><img src=\"quizlet-YzuI6rIrp4sFESP.Z9sknw.png\"></div>",
+                                ""
+                            ],
+                            "guid": "e~?<PQr{M~",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "65c1a61a-8f4f-11ec-85d8-c423603b5ad7",
+                    "deck_config_uuid": "7fe4450e-8f4b-11ec-b4eb-c423603b5ad7",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "quizlet-SsUf7i.qDFtJ1874uROjWA.png"
+                    ],
+                    "name": "Chemie 502 2/4 Atombau [...] Kapitel 2 S. 14 - 30",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Definieren Sie die Coulomb - Kraft.",
+                                "Die Kraft zwischen zwei Ladungen ist nach dem Coulomb-Gesetz direkt proportional zum Produkt der beiden elektrischen Ladungen und umgekehrt proportional zum Quadrat ihres Abstands<div><br></div><div><img src=\"quizlet-SsUf7i.qDFtJ1874uROjWA.png\"></div>",
+                                ""
+                            ],
+                            "guid": "k-L1z|o~o.",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was besagt die Nukleonenzahl?",
+                                "Gibt an, wie viele Protonen und Neutronen, d. h. Nukleonen, ein Atomkern eines Elements besitzt. Die Anzahl Neutronen kann variieren. Wird auch Massenzahl genannt.",
+                                ""
+                            ],
+                            "guid": "clk=M&{0H(",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was besagt die Massenzahl?",
+                                "Sie gibt an, wie viele Protonen und Neutronen, d. h. Nukleonen, ein Atomkern eines Elements besitzt. Die Anzahl Neutronen kann variieren. Wird auch Nukleonenzahl genannt.",
+                                ""
+                            ],
+                            "guid": "iXO2~9p-np",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Definieren Sie Nuklid.",
+                                "Atom mit einer bestimmten Protonen- und Neutronenzahl. Im Symbol wird die Nukleonenzahl angegeben (40 K oder K-40).",
+                                ""
+                            ],
+                            "guid": "m#|tfN,To(",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Erläutern Sie Isotop.",
+                                "Isotope Nuklide sind Atome mit gleicher Protonen-, aber verschiedener Neutronenzahl. Sie unterscheiden sich nicht in ihrem chemischen Verhalten, aber in ihrer Masse",
+                                ""
+                            ],
+                            "guid": "IfU;|@zC<2",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "65c26966-8f4f-11ec-9902-c423603b5ad7",
+                    "deck_config_uuid": "7fe4450e-8f4b-11ec-b4eb-c423603b5ad7",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "quizlet--O4RT0PqpR4kkpovzVTwDQ.png",
+                        "quizlet-DOI.v95zYG8PlRIGWillcQ.png",
+                        "quizlet-ba.E1yIbn6P7.qNAxtR2yQ.png",
+                        "quizlet-gYq51.ZIxx6QMuLzgukzhA.png"
+                    ],
+                    "name": "Chemie 502 2/4 Atombau [...] Kapitel 2 S. 35 - 47",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sagt die Ionisierungsenergie aus?",
+                                "Die Energie, die erforderlich ist, um ein Elektron von einem Atom (oder Ion) abzuspalten, bezeichnet man als Ionisierungsenergie (IE).",
+                                ""
+                            ],
+                            "guid": "G1(EtEm$Xn",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie verhält sich die IE bei Elektronen?",
+                                "Bei der schrittweisen Abspaltung der Elektronen nimmt die IE mit jedem abgespaltenen Elektron zu. Dies hat zwei Gründe. Der eine liegt darin, dass die positive Ladung des« Mutterteilchens »durch die Abspaltung von Elektronen immer grösser wird.<br><br>Der zweite Grund für die Unterschiede in den Ionisierungsenergien liegt darin, dass sich die Elektronen eines Atoms in der Energie unterscheiden. Energiereiche Elektronen lassen sich, wie das Schema in Abbildung 2 - 25, S. 35 veranschaulicht, mit einem kleineren Energieaufwand abspalten.<div><br></div><div><img src=\"quizlet-ba.E1yIbn6P7.qNAxtR2yQ.png\"></div>",
+                                ""
+                            ],
+                            "guid": "vQ!V|Z%Uja",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche zwei Energieformen besitzen Elektronen?",
+                                "Da sich die Elektronen ständig bewegen und gleichzeitig vom Kern angezogen werden, haben sie Bewegungsenergie (kinetische Energie) und Lageenergie (potenzielle Energie.",
+                                ""
+                            ],
+                            "guid": "v:@?_,/)wj",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie verhält sich die potenzielle Energie bei Elektronen?",
+                                "Bei den Elektronen steigt die potenzielle Energie mit zunehmendem Abstand vom Kern und die Ionisierungsenergie sinkt, weil die elektrostatische Anziehung des Elektrons durch den Kern mit zunehmendem Abstand zu diesem schwächer wird (Coulomb- Gesetz).",
+                                ""
+                            ],
+                            "guid": "iN;uq8(:Mo",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie nennt man die Energiestufen in die Elektronen unterteilt werden können?",
+                                "Die Verteilung der Elektronen auf die maximal sieben Energiestufen (K - Q) nennt man Elektronenkonfiguration.",
+                                ""
+                            ],
+                            "guid": "j}CYZ[Zf)F",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie verhält sich die Energie eines Elektrons und der Abstand zum Kern?",
+                                "Je grösser der Abstand zum Kern, je höher die Energie des Elektrons.",
+                                ""
+                            ],
+                            "guid": "ChMCR5w)&X",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie verhält sich die Energie eines Elektrons und die Anziehung durch den Kern?",
+                                "Je kleiner die Anziehung durch den Kern, je höher die Energie des Elektrons.",
+                                ""
+                            ],
+                            "guid": "pC52z/1Ne#",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie \"entsteht\" ein Photon?",
+                                "Ein Elektron kann in einen anderen erlaubten Energiezustand wechseln, indem es Energie aufnimmt oder abgibt. Diese Energie wird als Photon (eine kleine Energiemenge elektromagnetischer Strahlung, eine Art« Lichtquant ») aufgenommen oder abgegeben.",
+                                ""
+                            ],
+                            "guid": "Nl>/ffInA}",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sagt die Schale im Schalenmodell aus?",
+                                "Im Schalenmodell entspricht eine Schale einer Energiestufe. Grundsätzlich können sieben Energiestufen unterschieden werden, sie werden mit den Buchstaben K bis Q benannt.<div><br></div><div><img src=\"quizlet-DOI.v95zYG8PlRIGWillcQ.png\"></div>",
+                                ""
+                            ],
+                            "guid": "e=NeViTWmy",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie lässt sich die maximal Elektronenanzahl auf einer Energiestufe benennen?",
+                                "2*n^2<div><br></div><div><img src=\"quizlet-gYq51.ZIxx6QMuLzgukzhA.png\"></div>",
+                                ""
+                            ],
+                            "guid": "uLTPYsKy-^",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Definieren Sie Edelgaskonfiguration.",
+                                "Elektronenverteilung mit acht (bei der K-Schale zwei) Valenzelektronen. Atome mit Edelgaskonfiguration sind energiearm und stabil.",
+                                ""
+                            ],
+                            "guid": "viju,c)~Z-",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Definieren Sie Atomrumpf.",
+                                "Der Atomrumpf ist das Atom ohne die Valenzelektronen. Die Rumpfladung ist immer positiv und entspricht zahlenmässig der Anzahl der VE.",
+                                ""
+                            ],
+                            "guid": "D7@i,55Gbl",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was besagt die Nebenquantenzahl l?",
+                                "Sie gibt Auskunft über die Gestalt des Orbitals. Bei einer gegebenen Hauptquantenzahl n kann l alle ganzzahligen Werte von 0 bis n - 1 annehmen. Ist die Hauptquantenzahl beispielsweise 3, dann gibt es 3 Nebenquantenzahlen, nämlich 0, 1 und 2.<div><br></div><div><img src=\"quizlet--O4RT0PqpR4kkpovzVTwDQ.png\"></div>",
+                                ""
+                            ],
+                            "guid": "B./mND3ZS8",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was besagt das Pauli-Prinzip?",
+                                "Zwei Elektronen können innerhalb eines Atoms nicht in allen Quantenzahlen übereinstimmen.",
+                                ""
+                            ],
+                            "guid": "K3##%(-g]Z",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "65c2f475-8f4f-11ec-9ac7-c423603b5ad7",
+                    "deck_config_uuid": "7fe4450e-8f4b-11ec-b4eb-c423603b5ad7",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "Chemie 502 2/4 Atombau [...] Kapitel 3 S. 48 - 55",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Definieren Sie Periode.",
+                                "Zeile des PSE. Jede Periode beginnt mit einem Alkalimetall und endet mit einem Edelgas, ausser die erste, die mit dem Wasserstoff beginnt. Die Atome der Elemente einer Periode haben dieselbe Schalenzahl.",
+                                ""
+                            ],
+                            "guid": "G[A{MSy@B{",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Definieren Sie Gruppe.",
+                                "Spalte des PSE. Das PSE hat 8 Hauptgruppen und 10 - 24 Nebengruppen. Elemente einer Hauptgruppe sind chemisch ähnlich, ihre Atome stimmen in der Valenzelektronenzahl überein. Die Hauptgruppennummer entspricht der VE-Zahl.",
+                                ""
+                            ],
+                            "guid": "N90wIm5aw}",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "65c36030-8f4f-11ec-ad4e-c423603b5ad7",
+                    "deck_config_uuid": "7fe4450e-8f4b-11ec-b4eb-c423603b5ad7",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "quizlet-CI8CTjXGtfawwOJUh--jKQ.png"
+                    ],
+                    "name": "Chemie 502 2/4 Atombau [...] Kapitel 4 S. 56 - 70",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist der Grund für unterschiedliche physikalische Eigenschaften von Elementen?",
+                                "Die physikalischen Eigenschaften der Elemente werden hauptsächlich durch die Anordnung der Teilchen und die Kräfte zwischen den Teilchen bestimmt.",
+                                ""
+                            ],
+                            "guid": "cJvTW.&caN",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wieso nimmt die Ioniersierungsenergie in der Gruppe ab?",
+                                "Die ersten Ionisierungsenergien nehmen in der Gruppe nach unten ab, weil der Abstand zwischen Kern und Valenzelektronen mit der Schalenzahl zunimmt.",
+                                ""
+                            ],
+                            "guid": "x,Y8qh4*kz",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Bild Metallcharakter im Periodensystem.",
+                                "<div><img src=\"quizlet-CI8CTjXGtfawwOJUh--jKQ.png\"></div>",
+                                ""
+                            ],
+                            "guid": "d>:C{vzgxI",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Zählen Sie die Eigenschaften der ersten Hauptgruppe auf.",
+                                "Gruppe I<br>Alkalimetalle<br><br>- geringe Härte<br><br>- kleine Dichte<br><br>- tiefer Smp.<br><br>- tiefer Sdp.",
+                                ""
+                            ],
+                            "guid": "cZy+cc;WX?",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Nennen Sie die 2te Hauptgruppe.",
+                                "Erdalkalimetalle",
+                                ""
+                            ],
+                            "guid": "Q]6oT7CW3n",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Nennen Sie die 3te Hauptgruppe.",
+                                "Borgruppe",
+                                ""
+                            ],
+                            "guid": "PVVG*71J|L",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Nennen Sie die 4te Hauptgruppe.",
+                                "Kohlenstoffgruppe",
+                                ""
+                            ],
+                            "guid": "ll1SqXA$,4",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Nennen Sie die 5te Hauptgruppe.",
+                                "Stickstoffgruppe.",
+                                ""
+                            ],
+                            "guid": "rxb/},lV1J",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Nennen Sie die 6te Hauptgruppe.",
+                                "Chalkogene.",
+                                ""
+                            ],
+                            "guid": "phUrulEL44",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Nennen Sie die 7te Hauptgruppe.",
+                                "Halogene",
+                                ""
+                            ],
+                            "guid": "N7VRrW`L,]",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Nennen Sie die 8te Hauptgruppe.",
+                                "Edelgase",
+                                ""
+                            ],
+                            "guid": "c8)`-f^B9L",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        }
+                    ]
+                }
+            ],
+            "crowdanki_uuid": "65c01f70-8f4f-11ec-8412-c423603b5ad7",
+            "deck_config_uuid": "7fe4450e-8f4b-11ec-b4eb-c423603b5ad7",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "CH 502",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "65c3fffe-8f4f-11ec-a138-c423603b5ad7",
+                    "deck_config_uuid": "7fe4450e-8f4b-11ec-b4eb-c423603b5ad7",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "quizlet-8nVaBVN9p2lp15634S3JWA.png",
+                        "quizlet-KUcVlYVWmbze3IQWld1hhA.png",
+                        "quizlet-k1lPBrUCU7mrIu7B2u5k7Q.png",
+                        "quizlet-q.MMYkI6bBiULhExORuNkg.png"
+                    ],
+                    "name": "Chemie 503 3/4 Atombau [...] Kapitel 1 1/2 S. 6 - 19",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie steht es um das Energieniveau von Molekülen?",
+                                "Wenn sich Nichtmetall-Atome zu Molekülen verbinden, erreichen sie einen energiearmen Zustand, Moleküle sind energieärmer als die Einzel-Atome.",
+                                ""
+                            ],
+                            "guid": "fEUtl9GI*@",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was geschieht bei der Bindung von Molekülen?",
+                                "Bei der Bildung der Moleküle wird daher Energie frei.",
+                                ""
+                            ],
+                            "guid": "x828ln7)39",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie nennt man die Kräfte, welche die Moleküle von Feststoffen und Flüssigstoffen zusammenhalten?",
+                                "Die Kräfte, die die Moleküle von Feststoffen und Flüssigkeiten zusammenhalten, heissen zwischenmolekulare Kräfte. Sie wirken im Gegensatz zu den Atombindungen, die die Atome in einem Molekül binden, wie ihr Name sagt, zwischen den Molekülen.<div><br></div><div><img src=\"quizlet-KUcVlYVWmbze3IQWld1hhA.png\"></div>",
+                                ""
+                            ],
+                            "guid": "xhq8BxVf0h",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Bindungen sind stärker zwischenmolekulare oder atomare?",
+                                "Da die zwischenmolekularen Kräfte wesentlich schwächer sind als die Atombindungen, lassen sich Moleküle durch Energiezufuhr voneinander lösen, ohne in Atome gespalten zu werden.",
+                                ""
+                            ],
+                            "guid": "GBtzG_aWJ=",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie nennt man die Elektronen einer doppelt besetzen Wolke?",
+                                "Die Wolke ist doppelt besetzt. Die beiden Elektronen einer doppelt besetzten Wolke bilden ein <b>Elektronenpaar</b> (EP).",
+                                ""
+                            ],
+                            "guid": "b27[%U@@TB",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was geschieht wenn sich Nichtmetall-Atome druch kovalente Bindungen verbinden?",
+                                "Wenn sich Nichtmetall-Atome durch kovalente Bindungen verbinden, entstehen Molekülverbindungen oder (kurz) Moleküle.",
+                                ""
+                            ],
+                            "guid": "GUV861$^7r",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wozu dient die Lewis-Formel?",
+                                "In der Lewis-Formel (auch Strichformel genannt) werden neben den Elementsymbolen, die hier für die Atomrümpfe stehen, die Valenzelektronen durch Striche (Elektronenpaare) und Punkte (ungepaarte Elektronen) dargestellt. Die Strukturformel beschreibt die Bindungsverhältnisse in Molekülen. Die Striche für die bindenden Elektronenpaare stehen zwischen den Symbolen.<div><br></div><div><img src=\"quizlet-q.MMYkI6bBiULhExORuNkg.png\"></div>",
+                                ""
+                            ],
+                            "guid": "JyVh7=DRQv",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Definieren Sie den Unterschied zwischen Verbindung und Bindung.",
+                                "<div><img src=\"quizlet-k1lPBrUCU7mrIu7B2u5k7Q.png\"></div>",
+                                ""
+                            ],
+                            "guid": "ea>3BE?~2=",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was besagt die Oktettregel?",
+                                "Die Oktettregel besagt, dass in den Molekülen aus Nichtmetallen der zweiten Periode der Atomrumpf der gebundenen Atome von acht Elektronen umgeben ist.",
+                                ""
+                            ],
+                            "guid": "f#,+4[x>IC",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wann spricht man von einem Elektronen-Dublett?",
+                                "Die Atome der ersten Periode (Wasserstoff und Helium) können natürlich nicht acht Elektronen auf ihrer Aussenschale haben, weil die K-Schale schon mit zwei Elektronen voll besetzt ist. Man spricht darum von einem Elektronen-Dublett.<div><br></div><div><img src=\"quizlet-8nVaBVN9p2lp15634S3JWA.png\"></div>",
+                                ""
+                            ],
+                            "guid": "y<xW2fjOO}",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "65c471a8-8f4f-11ec-ac0a-c423603b5ad7",
+                    "deck_config_uuid": "7fe4450e-8f4b-11ec-b4eb-c423603b5ad7",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "quizlet-GYSnsHIqyzV2MAP20UPJDg.png",
+                        "quizlet-HEfHGlnjuXVfrLh2B-DQcQ.png",
+                        "quizlet-Y9I2awhijDb.COmDi9XhpA.png",
+                        "quizlet-efES5isA4h0UkmdycymrRw.png"
+                    ],
+                    "name": "Chemie 503 3/4 Atombau [...] Kapitel 1 2/2 S. 19 - 24",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Woher weiss man welches Atom, bei einer Atombindung, die positive bzw. negative Teilladung hat?",
+                                "In asymmetrischen Elektronenwolken ist auch die Verteilung der Ladung asymmetrisch, das Atom mit der höheren Anziehungskraft auf das Bindungselektronenpaar erhält eine negative Teilladung, das Atom mit der niedrigeren Anziehungskraft auf das Bindungselektronenpaar eine positive Teilladung. Eine solche, asymmetrische Verteilung der Elektronenwolke erzeugt eine Polarität, man nennt die Atombindung daher polar.",
+                                ""
+                            ],
+                            "guid": "km+?n?.,i#",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wovon hängt die EN ab?",
+                                "Die EN basiert auf der elektrostatischen Anziehung der Bindungselektronen durch den Atomrumpf. Sie ist also nach dem Gesetz von Coulomb abhängig vom Abstand zwischen dem Kern und den Bindungselektronen und von der Ladung des Atomrumpfs.",
+                                ""
+                            ],
+                            "guid": "f}_h,fHIJh",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie verhält sich die EN im PSE?",
+                                "Die EN nimmt im Periodensystem in der Gruppe nach unten ab, da mit zunehmender Schalenzahl die Valenzelektronen und damit auch die Bindungselektronen weiter vom Kern entfernt sind und weniger stark angezogen werden.<br><br>Die EN nimmt in der Periode mit steigender Rumpfladung zu und in der Gruppe mit steigendem Atomradius ab.<div><br></div><div><img src=\"quizlet-GYSnsHIqyzV2MAP20UPJDg.png\"></div>",
+                                ""
+                            ],
+                            "guid": "G-g2m&d|7x",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was versteht man unter Partialladung?",
+                                "Unter Partialladung versteht man die unterschiedliche Ladung zweier Bindungspartner (Atome oder Molekülteile)wird angegeben durch +delta bzw. -delta.<div><br></div><div><img src=\"quizlet-efES5isA4h0UkmdycymrRw.png\"></div>",
+                                ""
+                            ],
+                            "guid": "QLlhoRWZ#S",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was besagt der Van-der-Waals-Radius?",
+                                "Der Radius eines Atoms ist keine so eindeutige Grösse, wie einem das die Darstellung der Atome durch Kugeln vorgaukelt. Atome lassen sich nicht so einfach vermessen wie Materiekügelchen. Man ermittelt ihren Radius, der Van-der-Waals-Radius genannt wird, aus dem minimalen Abstand von zwei nicht aneinander gebundenen Atomen oder Molekülen .<div><br></div><div><img src=\"quizlet-Y9I2awhijDb.COmDi9XhpA.png\"></div>",
+                                ""
+                            ],
+                            "guid": "NB>^/wT2<P",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Warum definierte man den kovalenten Atomradius?",
+                                "Um Bindungslängen berechnen und vergleichen zu können, wurde der kovalente Atomradius (r) definiert. Er ist der halbe Abstand zwischen den Zentren von einfach gebundenen gleichartigen Atomen.<div><br></div><div><img src=\"quizlet-HEfHGlnjuXVfrLh2B-DQcQ.png\"></div>",
+                                ""
+                            ],
+                            "guid": "o#j($MyQ%1",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "65c4bfb6-8f4f-11ec-8b7d-c423603b5ad7",
+                    "deck_config_uuid": "7fe4450e-8f4b-11ec-b4eb-c423603b5ad7",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "quizlet-3WhvYk3NR7erQZSND.zYwA.png",
+                        "quizlet-RfvxpnoIWvtFjtZIz.Xrdg.png",
+                        "quizlet-iU0EzvUji8dQrxbU6cpeEQ.png"
+                    ],
+                    "name": "Chemie 503 3/4 Atombau [...] Kapitel 2 S. 25 - 46",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie wird die Zusammensetzung eines Moleküls beschrieben?",
+                                "Die Zusammensetzung eines Moleküls wird durch die Molekülformel beschrieben, oft auch Summenformel genannt. Sie setzt sich zusammen aus den Elementsymbolen der gebundenen Atome und aus dem tiefgestellten Index für die Anzahl der Atome, die in einem Molekül gebunden sind (sofern sie von 1 abweicht; der Index 1 wird nicht geschrieben): H2O, CO2.",
+                                ""
+                            ],
+                            "guid": "r}0x]&D_V^",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Muss die Oktettregel bei allen Atomen eines Moleküls erfüllt sein?",
+                                "Nein, Atome können mehr (und auch weniger) Bindungen eingehen, als zur Erreichung des Oktetts nötig sind, indem sie neben ihren ungepaarten Elektronen auch Elektronenpaare als Bindungselektronen zur Verfügung stellen.",
+                                ""
+                            ],
+                            "guid": "r$?c<v%qtv",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wozu dient das Kugel-Stab-Modell?",
+                                "Bei Kugel-Stab-Modellen werden die Atomzentren durch Kugeln, die gemeinsamen Elektronenpaare durch Stäbchen dargestellt. Kugel-Stab-Modelle sind sehr übersichtlich und lassen die Anordnung der Atome und die Bindungswinkel gut erkennen.<div><br></div><div><img src=\"quizlet-iU0EzvUji8dQrxbU6cpeEQ.png\"></div>",
+                                ""
+                            ],
+                            "guid": "K1L.!@p%xT",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wozu dienen Kalotten-Modelle?",
+                                "Kalotten-Modelle verwenden zur Darstellung der Atome unterschiedlich grosse Kalotten. Diese sollen veranschaulichen, dass sich die Atomhüllen gegenseitig« durchdringen ». Kalotten-Modelle lassen die Bindungswinkel nicht so gut erkennen, zeigen aber eher als Kugel-Stab-Modelle die« echte »Gestalt der Moleküle.<div><br></div><div><img src=\"quizlet-3WhvYk3NR7erQZSND.zYwA.png\"></div>",
+                                ""
+                            ],
+                            "guid": "PLvM/tqP/}",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Nennen Sie die Hauptregel des Elektronenpaarabstossungs-Modell(EPA-Modell).",
+                                "Bindende und freie Elektronenpaare ordnen sich in einem Molekül so um die Atomrümpfe an, dass sie möglichst grosse Entfernung voneinander haben.",
+                                ""
+                            ],
+                            "guid": "wQ1qH}AWc|",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie sieht ein Bortrifluorid-Molekül aus?",
+                                "Ein Zentral-Atom ist von drei Atomen umgeben, die die Ecken eines gleichseitigen Dreiecks bilden. Der Bindungswinkel beträgt 120 °. Das Molekül ist trigonal planar gebaut.<div><br></div><div><img src=\"quizlet-RfvxpnoIWvtFjtZIz.Xrdg.png\"></div>",
+                                ""
+                            ],
+                            "guid": "M;SoJpF5J=",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "65c510ba-8f4f-11ec-8c11-c423603b5ad7",
+                    "deck_config_uuid": "7fe4450e-8f4b-11ec-b4eb-c423603b5ad7",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-21edea3cbca43cf3dc546966b58d622cade46999.jpg",
+                        "quizlet-cAf1At6-TH-6Hl2eFPGz1w.png",
+                        "quizlet-kKdse2GlEF-VdPAlLdRZ1g.png",
+                        "quizlet-lkJTxruh-jRpB7TGBLmn9g.png",
+                        "quizlet-r6-MMdQpeN8D0LPAzvtR3Q.png",
+                        "quizlet-zy2oTfgnL89u0Q7iKXJg-Q.png"
+                    ],
+                    "name": "Chemie 503 3/4 Atombau [...] Kapitel 3 S. 47 - 54",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wieso haben molekulare Stoffe eher eine tiefe Schmelztemperatur?",
+                                "Weil die zwischenmolekularen Kräfte schwächer sind als die Gitterkräfte in Salz- oder Metallgittern, haben die meisten molekularen Stoffe tiefere Schmelztemperaturen und geringere Härten als Salze oder Metalle.",
+                                ""
+                            ],
+                            "guid": "Bh>#c9!prr",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie sind die Moleküle in Flüssigkeiten geordnet?",
+                                "In Flüssigkeiten sind die Moleküle nicht mehr geordnet und können sich« fort »bewegen. Sie sind aber immer noch dicht beieinander und werden nach wie vor durch die zwischenmolekularen Kräfte zusammengehalten. Erst beim Verdampfen lösen sich die Moleküle völlig voneinander. Darum sind die Siedetemperatur und die Verdampfungswärme von den zwischenmolekularen Kräften abhängig",
+                                ""
+                            ],
+                            "guid": "wwC%h|&eS)",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie wirken die ZMK bei der Oberflächenspannung?",
+                                "Die zwischenmolekularen Kräfte zeigen sich auch in der Oberflächenspannung einer Flüssigkeit. Wie die Abbildung zeigt, wird ein Molekül, das sich an der Oberfläche der Flüssigkeit befindet, von den zwischenmolekularen Kräften einseitig nach innen gezogen, während sich die Wirkungen der Kräfte auf Teilchen in der Flüssigkeit gegenseitig aufheben.<div><br></div><div><img src=\"quizlet-lkJTxruh-jRpB7TGBLmn9g.png\"></div>",
+                                ""
+                            ],
+                            "guid": "qpUn6%G8AI",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wann wirkt die VdWK?",
+                                "Die nach dem Physiker Johannes van der Waals benannten Van-der-Waals- Kräfte wirken zwischen allen Molekülen.",
+                                ""
+                            ],
+                            "guid": "I@+M/:r|z`",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die Ursache von VWdK?",
+                                "Als Ursache der Van-der-Waals-Kräfte gilt die asymmetrische Elektronenverteilung, die in Atomen und Molekülen durch die Bewegung der Elektronen auftritt. Durch die zeitweise asymmetrische Ladungsverteilung sind die Teilchen für kurze Zeit schwache Dipole. Man nennt sie<b> momentane Dipole</b>. Hat ein Molekül einen momentanen Dipol ausgebildet, beeinflusst dies das benachbarte Molekül, wo dadurch ebenfalls ein momentaner Dipol entsteht, und so weiter.<div><br></div><div><img src=\"quizlet-kKdse2GlEF-VdPAlLdRZ1g.png\"></div>",
+                                ""
+                            ],
+                            "guid": "m7!>K,-0-2",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie lassen sich die VDWK abschätzen?",
+                                "Die Van-der-Waals-Kräfte lassen sich mithilfe der folgenden zwei Faustregeln abschätzen: <br><br>• Die Van-der-Waals-Kräfte sind umso stärker, je grösser die Anzahl Elektronen ist. <br><br>• Die Van-der-Waals-Kräfte sind umso stärker, je grösser die Moleküloberfläche ist.",
+                                ""
+                            ],
+                            "guid": "L(Qt]dRd![",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wann wirken DDK?",
+                                "Zwischen allen polaren Molekülen, d. h. solchen mit einem permanenten Dipol, wirken die Dipol-Dipol-Kräfte. Sie beruhen auf der gegenseitigen Anziehung der entgegengesetzt geladenen Pole.<div><br></div><div><img src=\"quizlet-r6-MMdQpeN8D0LPAzvtR3Q.png\"></div>",
+                                ""
+                            ],
+                            "guid": "o(w1/A]qYh",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Definieren Sie Wasserstoffbrücken.",
+                                "Zwischen diesen H-Atomen und den freien Elektronenpaaren von <b>F-, O- oder N-Atomen </b>benachbarter Moleküle wirken <b>starke Anziehungskräfte</b>. Man nennt sie Wasserstoffbrücken (H-Brücken). Wasserstoffbrücken sind die stärksten zwischenmolekularen Kräfte (bei kleinen Molekülen).<div><br></div><div><img src=\"quizlet-cAf1At6-TH-6Hl2eFPGz1w.png\"><br><img src=\"paste-21edea3cbca43cf3dc546966b58d622cade46999.jpg\"><br><br></div>",
+                                ""
+                            ],
+                            "guid": "d5NBkE`^bu",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Signalisiert das Vorhandensein von H- und F- (bzw. O- oder N-) Atomen in einer Formel automatisch eine Wasserstoffbrücke?",
+                                "Das Vorhandensein von H- und F- (bzw. O- oder N-) Atomen in einer Formel bedeutet nicht automatisch, dass die Moleküle Wasserstoffbrücken bilden. So wirken zwischen den Molekülen von CH2F2 keine H-Brücken, weil die H-Atome nicht an die F-Atome gebunden sind und darum keine ausreichend hohe positive Partialladung tragen.<div><br></div><div><img src=\"quizlet-zy2oTfgnL89u0Q7iKXJg-Q.png\"></div>",
+                                ""
+                            ],
+                            "guid": "zEB}HJf>NN",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wofür ist die Stärke der ZMK massgebend?",
+                                "Die Stärke der zwischenmolekularen Kräfte ist massgebend für die Energie, die aufgewendet werden muss, um die Moleküle voneinander zu trennen. Weil die Kräfte zwischen kleinen Molekülen relativ schwach sind, haben viele molekulare Stoffe tiefe Siedepunkte.",
+                                ""
+                            ],
+                            "guid": "Htji?a8z5t",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sind die Bedingungen, die erfüllt werden müssen, dass ein Molekül ein Dipol bildet?",
+                                "<ul><li>Vorhandensein von H und (N, O, F)</li><li>H <b>muss </b>an eines der NOF gebunden sein.</li></ul>",
+                                ""
+                            ],
+                            "guid": "xid&b``&Bj",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "65c55efd-8f4f-11ec-9846-c423603b5ad7",
+                    "deck_config_uuid": "7fe4450e-8f4b-11ec-b4eb-c423603b5ad7",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "Graphene-atomic-structure-image-img_assist-400x354.jpg",
+                        "quizlet-MdVNMKacmaYm-qLx6c0VUw.png",
+                        "quizlet-SZgA9Xf3oiZ2AVhIwDkCRg.png",
+                        "quizlet-cwD083HRaw4Z.ftWDgDeyQ.png",
+                        "quizlet-zB6YjQgIKatefjleIKtLrA.png"
+                    ],
+                    "name": "Chemie 503 3/4 Atombau [...] Kapitel 4 S. 55 - 78",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wovon hängt die Reaktivität von Elementen(nur Nichtmetalle) ab?",
+                                "Die Reaktivität, d. h. die Neigung der Elemente, mit anderen Stoffen zu reagieren, ist vor allem von der Stärke der Atombindungen in den Molekülen abhängig, weil bei chemischen Vorgängen die Moleküle gespalten werden müssen, damit die Atome reagieren können.",
+                                ""
+                            ],
+                            "guid": "oamL8{ne}c",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wovon hängen die physikalischen Eigenschaften von Molekülen ab?",
+                                "Viele physikalische Eigenschaften wie die Siede- und die Schmelztemperatur und die Härte sind von den zwischenmolekularen Kräften abhängig.",
+                                ""
+                            ],
+                            "guid": "ym<,f`);U(",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist eine Modifikation?",
+                                "Modifikationen sind verschiedene Erscheinungsformen eines Elements.",
+                                ""
+                            ],
+                            "guid": "w@3M.k!i3+",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie ist ein Diamantgitter aufgebaut?",
+                                "Das markierte C-Atom C* ist durch vier Einfachbindungen an vier tetraedrisch angeordnete (farbige) Nachbar-Atome gebunden. Jedes dieser C-Atome hat seinerseits wieder vier tetraedrisch angeordnete Bindungspartner (schwarz). So ist im Gitter jedes C-Atom durch vier kovalente Bindungen an vier Nachbar-Atome gebunden.<div><br></div><div><img src=\"quizlet-MdVNMKacmaYm-qLx6c0VUw.png\"></div>",
+                                ""
+                            ],
+                            "guid": "Hrk&!=2Nwv",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie ist ein Grafitgitter aufgebaut?",
+                                "Das Grafitgitter besteht aus übereinanderliegenden Ebenen, die durch Van-der-Waals- Kräfte zusammengehalten werden. Diese sind wesentlich schwächer als die Bindungskräfte in der Ebene und der Abstand der Ebenen ist mehr als doppelt so gross wie der Abstand der C-Atome in der Ebene. Die Ebenen können darum relativ leicht voneinander getrennt werden. Das erklärt die gute Spaltbarkeit des Grafits.<div><br></div><div><img src=\"quizlet-cwD083HRaw4Z.ftWDgDeyQ.png\"><br><img src=\"Graphene-atomic-structure-image-img_assist-400x354.jpg\"><br></div>",
+                                ""
+                            ],
+                            "guid": "IgsEVc{}-F",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie nennt man bindende Elektronen, deren Aufenthaltsbereich nicht zwischen zwei Atomrümpfen ist?",
+                                "Bindende Elektronen, deren Aufenthaltsbereich nicht zwischen zwei Atomrümpfen lokalisiert ist, werden als delokalisiert bezeichnet. Delokalisierte Elektronen verstärken Einfachbindungen zu partiellen Doppelbindungen.",
+                                ""
+                            ],
+                            "guid": "N4sW|0EE%Z",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wo entsteht das meiste Ozon?",
+                                "Die zur Spaltung des O 2 -Moleküls erforderliche kurzwellige UV-Strahlung kommt in der Natur nur in <b>grosser Höhe</b> vor. Dort hat sich darum eine Schicht mit relativ hohem Ozongehalt gebildet. Diese Ozonschicht lässt die kurzwellige UV-Strahlung nicht durchtreten und schützt dadurch die Lebewesen auf der Erde",
+                                ""
+                            ],
+                            "guid": "eOzAw:X8~e",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Weshalb sind Halogene so reaktionsfreudig?",
+                                "• Die Moleküle der Halogene bestehen aus zwei einfach gebundenen Atomen. Weil sich die Bindung relativ leicht trennen lässt, können viele Reaktionen der Halogene schon mit <b>wenig Aktivierungsenergie </b><br><br>• Die Halogen-Atome haben die <b>grösstmögliche Rumpfladung</b> (7 +). Die Aussenelektronen werden darum stark angezogen. Das zeigt sich in der hohen Elektronegativität und in der starken« Neigung », ein weiteres Elektron aufzunehmen.",
+                                ""
+                            ],
+                            "guid": "r1D?1e+3Zz",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie verhält sich die Reaktitvität in der Gruppe?",
+                                "Die Reaktivität nimmt in der Gruppe nach unten ab. Die Elektronen sind immer weiter weg vom geladenen Rumpf.",
+                                ""
+                            ],
+                            "guid": "HT9~_de%<7",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie verhält sich die Siedetemperatur in der Gruppe?",
+                                "Die Siedetemperatur nimmt in der Gruppe nach unten zu, weil die Van-der-Waals- Kräfte mit der Molekülmasse zunehmen. Zwischen den grossen I 2 -Molekülen sind die Van-der-Waals-Kräfte so stark, dass Iod bei NB fest ist.",
+                                ""
+                            ],
+                            "guid": "E$p*$}US^u",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was somd Radikale?",
+                                "Man bezeichnet Teilchen mit ungepaarten Elektronen als Radikale. Mit Ausnahme der Edelgas-Atome sind alle Atome Radikale. Durch die Spaltung der Wasserstoff- und der Chlor-Moleküle entstehen Wasserstoff- und Chlor-Radikale.<div><br></div><div><img src=\"quizlet-SZgA9Xf3oiZ2AVhIwDkCRg.png\"></div>",
+                                ""
+                            ],
+                            "guid": "b<DNjN<hDq",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was geschieht bei der Reaktion von Nichtmetallen?",
+                                "Bei der Reaktion von zwei Nichtmetallen muss Energie aufgewendet werden, um ihre Moleküle in Atome (Radikale) zu spalten. Bei der Bildung der neuen Bindungen wird Energie frei. Sind die Bindungen der Produkt-Moleküle polar, verläuft die Reaktion exotherm.",
+                                ""
+                            ],
+                            "guid": "c+3W=srYel",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Weshalb hat Eis eine geringere Dichte als Wasser?",
+                                "Im Eis sind die Wasser-Moleküle so geordnet, dass jedes von ihnen vier H-Brücken zu vier Nachbar-Molekülen ausbildet. Durch diese Anordnung bleiben zwischen den Wasser-Molekülen relativ grosse Hohlräume: So sind die Wasser-Moleküle im Eis weniger dicht gepackt als im flüssigen Wasser.<div><br></div><div><img src=\"quizlet-zB6YjQgIKatefjleIKtLrA.png\"></div>",
+                                ""
+                            ],
+                            "guid": "hZ#q9Fdh$H",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        }
+                    ]
+                }
+            ],
+            "crowdanki_uuid": "65c3b185-8f4f-11ec-b21d-c423603b5ad7",
+            "deck_config_uuid": "7fe4450e-8f4b-11ec-b4eb-c423603b5ad7",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "CH 503",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "65c61f34-8f4f-11ec-a9d3-c423603b5ad7",
+                    "deck_config_uuid": "7fe4450e-8f4b-11ec-b4eb-c423603b5ad7",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "GetAttachmentThumbnail",
+                        "paste-8f57fa7ea0133a770845739e7d3e940c5cef5a64.jpg"
+                    ],
+                    "name": "Unterricht",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Woher kommt die Leitfähigkeit von Metallen",
+                                "Im <b>Metallgitter </b>sind die Valenzelektronen <b>delokalisiert</b>, diese können weitergegeben werden",
+                                ""
+                            ],
+                            "guid": "OTT+1cg/LU",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wieso sind Metalle duktiel",
+                                "Metalle sind duktil = verformbar, weil die Valenzelektronen sich delokalisiert verhalten. Durch Verformung formt sich ein neues Gitter",
+                                ""
+                            ],
+                            "guid": "FS>n0WBrsi",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wieso geht Na keine Verbindung ein mit Cl (NaCl)?",
+                                "<ul><li>In der Verbindung von NaCl könnte Na die Edelgaskonfiguration nicht ereichen -&gt; es fehlen 6 el.</li><li>EN zu gross</li></ul>",
+                                ""
+                            ],
+                            "guid": "Q2;pn5~jrX",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Zu welchem Verhältnis reagiert Aluminium und Iod zum Salzgitter? - Formelgleichung?",
+                                "1:3 (Al:I)<br>2Al + 3I<sub>2</sub>&nbsp;=&gt; 2 Al<sup>-3</sup>&nbsp;I<sub>3</sub>&nbsp;<span style=\"font-size: 16.6667px;\"><sup>+1</sup></span>",
+                                ""
+                            ],
+                            "guid": "h(MSg-)vFe",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Stoffe sind homogen miteinander mischbar?",
+                                "Stoffe die sich in ihrer ZMK übereinstimmen",
+                                ""
+                            ],
+                            "guid": "gHJQMsDJ$G",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Von was hängt die Gitterenergie von Salzen ab?",
+                                "<ul><li>je <b>kleiner </b>die <b>Ionenradien</b></li><li>je <b>grösser </b>die <b>Ionenladungen</b></li></ul>",
+                                ""
+                            ],
+                            "guid": "w#t+-yFNX#",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Je grösser die Gitterkräfte desto ..",
+                                "<ul><li>grösser die <b>Härte</b></li><li>höher der <b>Schmelzpunkt</b></li></ul>",
+                                ""
+                            ],
+                            "guid": "cXDVdQ,63v",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Zwei Lösungen werden gemischt, FeCl<sub>3</sub>-Lsg + Na<sub>3</sub>PO<sub>4</sub>-Lsg. wie ist die Reaktionsgleichung des Stoffes der ausflält und wieso?",
+                                "<img src=\"GetAttachmentThumbnail\"><br>FePO<sub>4</sub>&nbsp;Fällt aus, weil die Gitterkräfte sehr stark sind und diese grösser ist als die Hydroenthalpie liefern kann. NaCl ist weiterhin als Lösung vorhanden",
+                                ""
+                            ],
+                            "guid": "s8G6)+&<oE",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Mechanisches Verhalten von Salzen<br><img src=\"paste-8f57fa7ea0133a770845739e7d3e940c5cef5a64.jpg\"><br>beschreibe 1-3",
+                                "Durch eine mechanische Verschiebung eines Salzgitter, verschieben sich ebenfalls die Ladungen =&gt;&nbsp;",
+                                ""
+                            ],
+                            "guid": "B4F$1mw/AP",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wieso wird Energie frei, wenn sich Ionen im Wasser lösen (Hydration)?",
+                                "Die Ionen binden sich an Wassermoleküle, diese Bindung wird durch Ladung zusammengehalten.&nbsp;<br>Durch diese Bindung wird ein energieärmeren Zustand erreicht -&gt; es wird energie frei",
+                                ""
+                            ],
+                            "guid": "vrN|m`BWx2",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Lösen eines Salzes, molare Gitterenthalpie und molare Hydrationsenthalpie =&gt; welche braucht läuft endotherm, welche exotherm",
+                                "Gitterenthalpie läuft <b>endotherm</b>, Hydrationsenthalpie läuft <b>exotherm</b>",
+                                ""
+                            ],
+                            "guid": "k[)q1[5^YK",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was für eine Atomgruppe ist immer Wasserlöslich?",
+                                "Alkalimetall Kationen sind immer löslich",
+                                ""
+                            ],
+                            "guid": "f}01?OupfP",
+                            "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                            "tags": []
+                        }
+                    ]
+                }
+            ],
+            "crowdanki_uuid": "65c5d45e-8f4f-11ec-8308-c423603b5ad7",
+            "deck_config_uuid": "7fe4450e-8f4b-11ec-b4eb-c423603b5ad7",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "CH 504",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "65c69486-8f4f-11ec-820c-c423603b5ad7",
+            "deck_config_uuid": "7fe4450e-8f4b-11ec-b4eb-c423603b5ad7",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "paste-362e81bc6a3df88db04b5d8cd4392df67a927460.jpg",
+                "paste-46db288b5086409ac22e8541fe56804975d9f5bd.jpg",
+                "paste-597dc24d74f7c5a725160a1775805555f62da2ad.jpg",
+                "paste-6933d95cd29b705adc859accc5ae2b21819168e9.jpg",
+                "paste-77eaf33e4b45691da474d149b7a71b87aa0d33d8.jpg",
+                "paste-a3b688c4c1ea1a1c55a5df983c2d8ef2a7129140.jpg",
+                "paste-c9913f81a98808af780a18fe152bac041aa8de54.png",
+                "paste-de5a4693b9a6c95c5bd903b1c552480739167b64.png",
+                "paste-f7fa558050f405bc4c11e942923de706b05cd9bb.jpg",
+                "paste-fbc9757471955a79a08672e53b8a1685570d3ffc.jpg"
+            ],
+            "name": "CH 511",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was beeinflusst die Reaktionsgeschwindigkeit?",
+                        "<ul><li>Katalysator</li><li>Temperatur erhöhen</li><li>Oberfläche vergrössern</li><li>Konzentration der Edukte vergrössern</li></ul>",
+                        ""
+                    ],
+                    "guid": "F3T)f*^@EM",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Eine Temperaturveränderung führt zur Änderung des Reaktonsgleichgewicht. Wie ist das zu erklähren?",
+                        "Bei einer umkehrbaren Reaktion, die sich im Reaktionsgleichgewicht befindet gibt es eine exotherme und endotherme reaktion. Wird die Temperatur <b>erhöht</b>, so wird die <b>endotherme </b>Reaktion <b>begünstigt</b>. Sie verläuft schneller, da sie mehr Energie aufnehmen kann",
+                        ""
+                    ],
+                    "guid": "JnP4Tist`a",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Bei welchen der folgenden Reaktion führt eine Druck erhöhung zu einer anderen Gleichgewichtslage?<br><img src=\"paste-f7fa558050f405bc4c11e942923de706b05cd9bb.jpg\">&nbsp;",
+                        "Durch Druckerhöhung beeinflussbar sind B], C] und D]. Bei A] ändert sich die Zahl der \nTeilchen im gasförmigen Zustand nicht. \nDie Druckerhöhung begünstigt die Reaktion, die zu einer Abnahme der Zahl der Teilchen \nim gasförmigen Zustand und damit des Drucks führt. Das ist bei B] und C] die Hinreaktion. \nDas Gleichgewicht verschiebt sich hier nach rechts. Weil die Zahl der Teilchen im gasförmigen Zustand (bzw. Stoffmenge der gasförmigen Stoffe) bei den Produkten kleiner ist, \nnimmt der Druck (bei konstantem Volumen) durch die Hinreaktion ab und vermindert so \nden Zwang von aussen. \nBei D] beschleunigt eine Druckerhöhung die Rückreaktion. Weil die Zahl der Teilchen im \ngasförmigen Zustand (bzw. Stoffmenge der gasförmigen Stoffe) bei den Edukten kleiner \nist, nimmt der Druck (bei konstantem Volumen) durch die Rückreaktion ab. Dies vermindert den Zwang von aussen.",
+                        ""
+                    ],
+                    "guid": "D0-c_Ri%eM",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie verhält sich ein Gleichgewichtszustand bei einer Stoffzugabe?<br><img src=\"paste-597dc24d74f7c5a725160a1775805555f62da2ad.jpg\"><br>Hier im Bild, wie geht es weiter, wenn ich die Konzentration von H<sub>2</sub>&nbsp;erhöhe?",
+                        "<img src=\"paste-362e81bc6a3df88db04b5d8cd4392df67a927460.jpg\"><br>Da es mehr H<sub>2</sub>&nbsp;gibt wird die kommt es zu mehr erfolgreichen Zusammenstösse die NH<sub>3</sub>&nbsp;synthetisiert. Da es mehr NH<sub>3</sub>&nbsp;gibt, gibt es weniger N<sub>2&nbsp;</sub>&nbsp;als vorher. Das Konzentrationsverhältnis stellt sich somit wieder auf den selben Wert ein.<br><div>\n<div>\n<div><img src=\"paste-de5a4693b9a6c95c5bd903b1c552480739167b64.png\"></div>\n</div></div>",
+                        ""
+                    ],
+                    "guid": "MeSvhc@{7<",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<img src=\"paste-46db288b5086409ac22e8541fe56804975d9f5bd.jpg\">",
+                        "<img src=\"paste-fbc9757471955a79a08672e53b8a1685570d3ffc.jpg\">",
+                        ""
+                    ],
+                    "guid": "iSuovS+mc!",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Berechnen Sie die Gleichgewichtskonstante für die Synthese von HI (bei 425 °C) aus den \nfolgenden Werten: c(H<sub>2</sub>) = c(l<sub>2</sub>) = 0.0012 mol/L, c(Hl) = 0.008386 mol/L.",
+                        "<img src=\"paste-a3b688c4c1ea1a1c55a5df983c2d8ef2a7129140.jpg\">",
+                        ""
+                    ],
+                    "guid": "BH}zrwgk02",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Die Reaktionsenthalpie für die Verbrennung von 1 mol Methangas CH<sub>4</sub>, beträgt 890.3kJ. \nWie viel Wärme wird frei bei der Verbrennung von 1000g Methan?",
+                        "<div>\n<div>\n<div><img src=\"paste-c9913f81a98808af780a18fe152bac041aa8de54.png\"></div>\n</div></div>",
+                        ""
+                    ],
+                    "guid": "GOV`%_5SD4",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Die Reaktionsenthalpie einer Reaktion ist negativ, was lässt sich über die Reaktion sagen?",
+                        "Die Reaktion ist exotherm (Produkte sind energieärmer als Edukte =&gt; Energie wurde an Umgebung abgegeben)",
+                        ""
+                    ],
+                    "guid": "b>d!C0WFiM",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<img src=\"paste-77eaf33e4b45691da474d149b7a71b87aa0d33d8.jpg\">",
+                        "<img src=\"paste-6933d95cd29b705adc859accc5ae2b21819168e9.jpg\">",
+                        ""
+                    ],
+                    "guid": "r8rI}d+K2D",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was besagt die RGT Regel?",
+                        "Reaktionsgeschwindigkeit nimmt pro 10° zwischen 2 -4 fache zu.&nbsp;<br>=&gt; nur im selben aggregatszustand",
+                        ""
+                    ],
+                    "guid": "nSmO_0YRYW",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "65c6e5ff-8f4f-11ec-939e-c423603b5ad7",
+            "deck_config_uuid": "7fe4450e-8f4b-11ec-b4eb-c423603b5ad7",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "CH 512",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Können Metalle Säuren sein?",
+                        "Metalle können an Säure/Basen- Reaktionen nicht teilnehmen aufgrund von Ladung bei Lösung",
+                        ""
+                    ],
+                    "guid": "y.E}dN89<x",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind Ampholyten?",
+                        "Stoffe die als Säure und Base reagieren können",
+                        ""
+                    ],
+                    "guid": "chnkcQk{q*",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "65c73407-8f4f-11ec-ad93-c423603b5ad7",
+            "deck_config_uuid": "7fe4450e-8f4b-11ec-b4eb-c423603b5ad7",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "paste-18566bf5d03d43aa287a627a8e44d2cd4ffc8d1a.jpg",
+                "paste-22773bf9c8e64d6852b3ac35150b6ea111787c91.jpg",
+                "paste-31d39582bb35b733100e9b45d8fcf0f56c87f3d7.jpg",
+                "paste-5460177b3c32e623e0f02a75490b6c1e19d21334.jpg",
+                "paste-54cb4ebd4b45112bdff1bf395df6633caeccbf70.jpg",
+                "paste-54de6866146c05f8f552ee38394d461d82ececfc.jpg",
+                "paste-5c173e8ff1dc778c811f2955a577df28fe6b1df6.jpg",
+                "paste-5e0617c751a5a4a28894a0347c83cd5a41b51535.jpg",
+                "paste-645a049949ee3567d261c819ae5c595a341e43de.png",
+                "paste-7f75c671aa52f5495752541e6185e7b23508143c.jpg",
+                "paste-87ad74cf86485299462f35a72f0feb62f4107932.png",
+                "paste-a668565917d496c2ffada7569c470162689266ab.jpg",
+                "paste-beba8545456d30f0ab3b10bdb965ba805ab338cf.jpg",
+                "paste-c18390fe69a4aa0ae7cedeebaa2919771fb3d8c3.jpg",
+                "paste-d03696063d2230aa379fb20d4dde4cb6e1607ca3.jpg",
+                "paste-d5061f34f26fc8a9b4ebf10e343b4e058696e835.jpg",
+                "paste-d74205ca08ba2e33367acf4d4d85d4042bc18137.jpg",
+                "paste-e04f7118915551d6cabc85a761775ff017cd4e92.jpg",
+                "paste-e8756aa2d1ffdb61c265d38cb85e234f0fa5756b.jpg",
+                "paste-eb5ef3b558f5e4c32a371c3c12b2759c16e21476.jpg",
+                "paste-ed7c0497013dec7241bcc26a874a6765449fe4c6.jpg",
+                "paste-fe2f8799d9282bd4d86175cb4825964409655b14.jpg",
+                "paste-ffe1ffd4eb294a5fdf491e10bf10c20c76ac292a.jpg",
+                "vulkan-sinabung-107~_v-original.jpg",
+                "yellow-2344417_1280.jpg"
+            ],
+            "name": "Chemie - Grundlagen",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie heisst der Schritt von Gasförmig zu Flüssig und umgekehrt?<br><img src=\"paste-fe2f8799d9282bd4d86175cb4825964409655b14.jpg\">",
+                        "Gas zu flüssig = <b>Kondensieren</b><br>flüssig zu gas = <b>Verdampfen / Verdunsten</b>",
+                        ""
+                    ],
+                    "guid": "yuRo(,vXpL",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie heisst der Schritt von Feststoff zu Gasförmig und umgekehrt?<img src=\"paste-31d39582bb35b733100e9b45d8fcf0f56c87f3d7.jpg\">",
+                        "Feststoff zu Gas = <b>Sublimieren</b><br>Gas zu Feststoff = <b>Resublimieren</b>",
+                        ""
+                    ],
+                    "guid": "GYCxC+C+/j",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist der Unterschied zwische Elektronenwolken/Orbitalmodel zu Bohrmodel?",
+                        "<ul><li>Bohr sieht Elektronen als Teilchen, Orbital Welle-Teilchen-Dualismus</li><li>Die Orbitalformen = 3D stehende Wellen</li><li>Mit dem Orbitalmodel können die Unterschalen erklärt werden</li></ul>",
+                        ""
+                    ],
+                    "guid": "w%TalbSXJ/",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Weshalb ist es unmöglich den Aufenthaltsort und die Geschwindigkeit eines Elektrones zusammen zu kennen?",
+                        "<br>Mit dem Betrachen des Elektrones ändert sich sein Zustand, deshalb können nicht mehrere Faktoren über ein Elektron bekannt sein.<br>In Wolke 90% Aufenthaltwahrscheinlichkeit",
+                        ""
+                    ],
+                    "guid": "hM-P7f,6l=",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wieviele Orbite hat die Valenzschale?",
+                        "4<br><img src=\"paste-c18390fe69a4aa0ae7cedeebaa2919771fb3d8c3.jpg\">",
+                        ""
+                    ],
+                    "guid": "nj33{r%o.T",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sagt die Hund'sche Regel",
+                        "Elektronen werden immer in die e<b>nergetisch geringste freie Orbitale</b> gefüllt. Enegetisch gleichwertige Orbitale werden zuerst einfach (nur 1 Elektron) besetzt.",
+                        ""
+                    ],
+                    "guid": "ud0q|`*0)g",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Definiere Moleküle",
+                        "<div><span style=\"font-weight: bold;\">Moleküle</span> sind kleine, abgeschlossene Atomverbände zwischen mehreren\nNichtmetallatomen, welche durch Atombindungen miteinander verknüpft sind. Sie\nkönnen entweder aus gleichen Elementen (H<sub>2</sub>) oder aus verschiedenen Elementen (H<sub>2</sub>O) bestehen.</div>",
+                        ""
+                    ],
+                    "guid": "i5{!>_Q|Ph",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<img src=\"paste-22773bf9c8e64d6852b3ac35150b6ea111787c91.jpg\">",
+                        "<img src=\"paste-5460177b3c32e623e0f02a75490b6c1e19d21334.jpg\"><br><br>Die Eb ist die Energie, die, die H2 Verbindung inneträgt. r0 ist der ideele Abstand zwischen den beiden Kernen, kommt es näher, wird die Energie ärmer, da positivität der Kerne, weiter weg nimmt die Anziehung der Elektronen zu den Kernen ab.",
+                        ""
+                    ],
+                    "guid": "xwY3f^3xn=",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie heisst der Schritt von Feststoff zu Flüssigkeit und umgekehrt?<img src=\"paste-5c173e8ff1dc778c811f2955a577df28fe6b1df6.jpg\">",
+                        "Feststoff zu Flüssig = <b>Schmelzen</b><br>Flüssig zu Fest = <b>Erstarren</b>",
+                        ""
+                    ],
+                    "guid": "e1-)-/7g#|",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Fachbezeichnung für eine hetrogenes Gemisch zwischen mehreren Feststoffen?",
+                        "Gemenge",
+                        ""
+                    ],
+                    "guid": "m?_w4kDZV;",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Fachbezeichnung für eine hetrogenes Gemisch von Feststoffen in einer Flüssigkeit?",
+                        "Suspension<br><img src=\"paste-7f75c671aa52f5495752541e6185e7b23508143c.jpg\">",
+                        ""
+                    ],
+                    "guid": "PHC_r^c1u%",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Fachbezeichnung für eine hetrogenes Gemisch von Flüssigkeitstropfen in einer Flüssigkeit? (ungleiche VWK)",
+                        "Emulsion<br><img src=\"paste-ffe1ffd4eb294a5fdf491e10bf10c20c76ac292a.jpg\">",
+                        ""
+                    ],
+                    "guid": "Nc%5:Wk`Yk",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Fachbezeichnung für eine hetrogenes Gemisch von Gas in einer Flüssigkeit?",
+                        "Schaum<br><img src=\"yellow-2344417_1280.jpg\">",
+                        ""
+                    ],
+                    "guid": "Oww&qK{l.M",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Fachbezeichnung für eine hetrogenes Gemisch von Feststoffen in einem Gas?",
+                        "Rauch<br><img src=\"vulkan-sinabung-107~_v-original.jpg\">",
+                        ""
+                    ],
+                    "guid": "jXKp_?-d%7",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Fachbezeichnung für eine hetrogenes Gemisch von Flüssigkeitstropfen in einem Gas?",
+                        "Nebel",
+                        ""
+                    ],
+                    "guid": "Qt3^S%&0z&",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Fachbezeichnung für eine homogenes Stoffgemisch von mehreren Metallen?",
+                        "Legierung",
+                        ""
+                    ],
+                    "guid": "hLY~eBeu2R",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Fachbezeichnung für eine homogenes Stoffgemisch von einem Feststoff in einer Flüssigkeit? (Salz in Wasser)",
+                        "Lösung",
+                        ""
+                    ],
+                    "guid": "DgcXmNF8|p",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Fachbezeichnung für eine homogenes Stoffgemisch von mehreren Flüssigkeiten (gleiche VWK)?",
+                        "Lösung",
+                        ""
+                    ],
+                    "guid": "F)lJs9DAT8",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Fachbezeichnung für eine homogenes Stoffgemisch von Gase in einer Flüssigkeit",
+                        "Lösung",
+                        ""
+                    ],
+                    "guid": "B)_mBh*pq0",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Fachbezeichnung für eine homogenes Stoffgemisch von mehreren Gasen?",
+                        "Gasgemisch",
+                        ""
+                    ],
+                    "guid": "Cw?4?[4=<b",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wiso kann es dieses Molekül nicht geben?<br><div>\n<div>\n<div><img src=\"paste-645a049949ee3567d261c819ae5c595a341e43de.png\"></div>\n</div></div>",
+                        "Molekülringe sind erlaubt, jedoch ist der Abstand elementar.<br><div>\n<div>\n<div><img src=\"paste-87ad74cf86485299462f35a72f0feb62f4107932.png\"><br>Sind die Elektronenwolken zunahe, geht die Bindung wieder auseinander. Moleküle ab<b> 4 Ringelementen</b> sind stabiel.</div>\n</div></div>",
+                        ""
+                    ],
+                    "guid": "M5-:FVA/vr",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<img src=\"paste-d03696063d2230aa379fb20d4dde4cb6e1607ca3.jpg\">",
+                        "<ul><li>Geometrisch nicht möglich</li><li>Abstossung wäre zu gross</li></ul><img src=\"paste-54de6866146c05f8f552ee38394d461d82ececfc.jpg\"><br>",
+                        ""
+                    ],
+                    "guid": "enqo8OOKOO",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Zeichne das Molekül&nbsp;<br><img src=\"paste-eb5ef3b558f5e4c32a371c3c12b2759c16e21476.jpg\">",
+                        "<img src=\"paste-54cb4ebd4b45112bdff1bf395df6633caeccbf70.jpg\">",
+                        ""
+                    ],
+                    "guid": "Ejde^YBnf7",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist das Kalloten-Model?",
+                        "<img src=\"paste-ed7c0497013dec7241bcc26a874a6765449fe4c6.jpg\">",
+                        ""
+                    ],
+                    "guid": "tT99Q4[Dt&",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist das Kugelstab-Modell?",
+                        "<img src=\"paste-18566bf5d03d43aa287a627a8e44d2cd4ffc8d1a.jpg\"><br><ul><li>Darstellung Bindungswinkel</li></ul>",
+                        ""
+                    ],
+                    "guid": "E(MSTcqAYB",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was kann den Keilstrichformeln dargestellt werden?",
+                        "<img src=\"paste-beba8545456d30f0ab3b10bdb965ba805ab338cf.jpg\"><br><ul><li>Chemische Zusammensetzung</li><li>Räumliche Struktur -&gt; <b>normaler </b>Pfeil ebene <b>gleich</b>;&nbsp;<b>keil </b>Pfeil nach <b>vorn</b>; <b>gestrichelter Keil</b>&nbsp;Pfeil nach <b>hinten</b></li></ul>",
+                        ""
+                    ],
+                    "guid": "B._uN_NF3h",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind die Verbindungsnamen von:<br><img src=\"paste-d5061f34f26fc8a9b4ebf10e343b4e058696e835.jpg\">",
+                        "<img src=\"paste-a668565917d496c2ffada7569c470162689266ab.jpg\">",
+                        ""
+                    ],
+                    "guid": "OH)$e0u|dl",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind die grichischen Zahlen von:<br><img src=\"paste-d74205ca08ba2e33367acf4d4d85d4042bc18137.jpg\">",
+                        "<img src=\"paste-e8756aa2d1ffdb61c265d38cb85e234f0fa5756b.jpg\">",
+                        ""
+                    ],
+                    "guid": "M[p0*E3w>1",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist der Molekülname von:<br><img src=\"paste-5e0617c751a5a4a28894a0347c83cd5a41b51535.jpg\">",
+                        "<img src=\"paste-e04f7118915551d6cabc85a761775ff017cd4e92.jpg\">",
+                        ""
+                    ],
+                    "guid": "i%<s(b[p5I",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Faktoren spielen eine Rolle für die stärke der Atombindung?",
+                        "<ul><li>Anzahl Bindungen</li><li>Polarität Delta EN</li><li>Bindungslänge</li></ul>",
+                        ""
+                    ],
+                    "guid": "q.(;,N/1jp",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Elemente haben ähnliche Eigenschaften",
+                        "Atome mit denselben Valenzelektronen",
+                        ""
+                    ],
+                    "guid": "Eog6M/xgE-",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "65c7d030-8f4f-11ec-991f-c423603b5ad7",
+            "deck_config_uuid": "7fe4450e-8f4b-11ec-b4eb-c423603b5ad7",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "ion_diagr1.png",
+                "page1-800px-Periodensystem_mit_Atomradien.pdf.jpg"
+            ],
+            "name": "Chemie Grundlagen Quiz",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Atomsorten bilden eine Konvalenzbindung",
+                        "Nichtmetalle (Moleküle)",
+                        ""
+                    ],
+                    "guid": "2.LhxMw@!",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Atomsorten bilden eine Ionenbindung?",
+                        "Metalle und Nichtmetalle oder mehrere mehratomige Ionen (Salze)<br>-&gt; <b><font color=\"#ff0000\">Ausnahme </font></b>NH<sub>4</sub><sup>&nbsp;+1</sup>",
+                        ""
+                    ],
+                    "guid": "fYB(Lh>c:>",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie gehen Atome Konvalentebindungen ein?",
+                        "Nichtmetall Atome können eine Verbindung eingehen. Dabei erreichen sie die Edelgaskonfiguration indem sie Orbite sich teilen.<br>Dabei gibt es einige Ausnahmen:<br>- Sauerstoff nicht an sich selber bindbar<br>- Bor 3 Bindungen<br>- N, P, S, Cl, Br, I können O El. zur verfügung geben",
+                        ""
+                    ],
+                    "guid": "DRM7@-QPYh",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie entsteht eine Ionenbindung?",
+                        "Metalle geben Nichtmetalle ihre VE ab. Es entstehen Ionen. Die Ionen ziehen sich gegenseitig an, es entsteht ein Ionengitter",
+                        ""
+                    ],
+                    "guid": "s82lfe8pPj",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was hält eine Metallbindung zusammen?",
+                        "Die VE der Metalle sind schwach gebunden und zwischen den Atomrümpfen frei beweglich. Sie bilden ein&nbsp;<b>Elektronengas&nbsp;</b>das die Atomen zusammen klebt.",
+                        ""
+                    ],
+                    "guid": "jU:&vA($UC",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Kräfte halten Gitter Konvalenterbindung zusammen?",
+                        "Die zwischenmolekularen Kräfte (ZMK)&nbsp;<br><ul><li>H-Brücken</li><li>Dipol</li><li>Van der Waals (Ab 4 C Atomen stärker als H-Brücke)</li></ul>",
+                        ""
+                    ],
+                    "guid": "Jmz,<YR<=T",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie verhält sich die Masse im Periodensystem",
+                        "Die Masse wird gegen rechts und nach unten grösser",
+                        ""
+                    ],
+                    "guid": "s)*9M9:`?A",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie verhält sich der <b>Atomradius </b>im Periodensystem?",
+                        "<div>nimmt\nvon oben nach unten zu, von links nach rechts ab&nbsp;<br><img src=\"page1-800px-Periodensystem_mit_Atomradien.pdf.jpg\"><br></div>",
+                        ""
+                    ],
+                    "guid": "rqDQ/^==tC",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie verhält sich die Elektronennegativität im Periodensystem?",
+                        "Nimmt von oben nach unten <b>ab</b>; nimmt von links nach rechts <b>zu </b>(Ausnahme Edelgase)",
+                        ""
+                    ],
+                    "guid": "DCP(I;z*#$",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie verhält sich die Ionisierungsenergie im Periodensytem?",
+                        "<ul><li>nimmt von oben nach unten <b>ab</b></li><li>nimmt von links nach rechts <b>zu</b></li></ul><div><img src=\"ion_diagr1.png\"><b><br></b></div>",
+                        ""
+                    ],
+                    "guid": "h`b@>^<UBE",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie verhält sich der Metallcharakter im Periodensystem?",
+                        "<ul><li>nimmt von oben nach unten <b>zu</b></li><li>nimmt von links nach rechts <b>ab</b></li></ul>",
+                        ""
+                    ],
+                    "guid": ".[zp3o$iT",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Kräfte halten Salze zusammen?",
+                        "Die Ladung von Anionen und Kationen.<br>Dabei gilt je grösser die Ionenladung und je kleiner der Atomradius, desto grösser die Anziehungskraft.&nbsp;<br>Ionenladung &gt; Atomradius",
+                        ""
+                    ],
+                    "guid": "d2DUb<QQzt",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Kräfte wirken in Metallen?",
+                        "Das negative Elektronengas wirkt wie Klebstoff zwischen den positiven Atomrümpfen.&nbsp;<br>Je mehr Elektronen abgegeben werden können und je kleiner die Atomrümpfe desto grösser die Anziehung.",
+                        ""
+                    ],
+                    "guid": "Broz!.L{{w",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie läst sich die Stärke von konvalenzbindungen abschätzen?",
+                        "<ul><li>Anzahl Bindungen (3&gt;2&gt;1)</li><li>Bindungslänge<br></li><li>Polarität der Bindungen</li></ul>",
+                        ""
+                    ],
+                    "guid": "BxN_%|L;M?",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche konvalente Bindungen sind wasserlöslich?",
+                        "-&gt; Abhängig von den zwischenmolekularen Kräften<br>Bei Wasser muss das Molekül H-Brücken haben",
+                        ""
+                    ],
+                    "guid": "jlEdT7^b76",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Salze sind wasserlöslich?",
+                        "Prinzipiell alle Salze, ausser die, die zu hohe Gitterkräfte haben",
+                        ""
+                    ],
+                    "guid": "BF//zg%Bhl",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Metalle sind wasserlöslich?",
+                        "Metalle sind nicht wasserlöslich",
+                        ""
+                    ],
+                    "guid": "nas>6EsY(]",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Leiten konvalente Bindungen Strom?",
+                        "nie - ausser Grafit",
+                        ""
+                    ],
+                    "guid": "ljuT/3Z5iy",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "leiten Salze elektrischen Strom?",
+                        "In flüssiger Form und in gelösster Form",
+                        ""
+                    ],
+                    "guid": "E>@2t#fBE<",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Leiten Metalle elektrischen Strom?",
+                        "Ja, im festen und flüssigen Zustand",
+                        ""
+                    ],
+                    "guid": "v.]]`Y$1:Q",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wenn ein Molekularstoff erhitzt wird, bis er gasförmig wird, welche Form hat er der Gasphase?",
+                        "Moleküle werden nicht gespalten, da es sich um ein rein physikalischen Vorgang handelt.",
+                        ""
+                    ],
+                    "guid": "A1.k_aTG>w",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was passiert, wenn man ein Salz erhitzt, bis es gasförmig wird?",
+                        "Es spaltet sich in Anionen und kationen",
+                        ""
+                    ],
+                    "guid": "js-;TK~{&>",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was hat eine stärkere Bindung HF oder KF?",
+                        "HF ist ein Molekül, KF ein Salz. Salzbindung&gt; konvalente Bindung",
+                        ""
+                    ],
+                    "guid": "N)n<;Uk`YV",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "65c86c7d-8f4f-11ec-9add-c423603b5ad7",
+            "deck_config_uuid": "7fe4450e-8f4b-11ec-b4eb-c423603b5ad7",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "Wichtigste Molekül-Ionen",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Carbonat",
+                        "(CO₃)²⁻",
+                        ""
+                    ],
+                    "guid": "zG/jM(SoY4",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Chlorit",
+                        "(ClO₂)⁻",
+                        ""
+                    ],
+                    "guid": "h^mNA,6<=z",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Chlorat",
+                        "(ClO₃)⁻",
+                        ""
+                    ],
+                    "guid": "mB+4[EAA]J",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Perchlorat",
+                        "(ClO₄)⁻",
+                        ""
+                    ],
+                    "guid": "z<rUm:EViP",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Nitrit",
+                        "(NO₂)⁻",
+                        ""
+                    ],
+                    "guid": "G/>VW9h5!H",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Nitrat",
+                        "(NO₃)⁻",
+                        ""
+                    ],
+                    "guid": "JxM+mNbYKy",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Cyanid",
+                        "(CN)⁻",
+                        ""
+                    ],
+                    "guid": "h|WkE_uO$A",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hydroxid",
+                        "(OH)⁻",
+                        ""
+                    ],
+                    "guid": "lG_-b74m4(",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Phosphat",
+                        "(PO₄)³⁻",
+                        ""
+                    ],
+                    "guid": "QE#_9GC$$9",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Sulfit",
+                        "(SO₃)²⁻",
+                        ""
+                    ],
+                    "guid": "i4vJe6$p{9",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Sulfat",
+                        "(SO₄)²⁻",
+                        ""
+                    ],
+                    "guid": "QB(^J]i/9B",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ammonium",
+                        "(NH₄)⁺",
+                        ""
+                    ],
+                    "guid": "CKAsHW4<l3",
+                    "note_model_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+                    "tags": []
+                }
+            ]
+        }
+    ],
+    "crowdanki_uuid": "65bc034e-8f4f-11ec-8d54-c423603b5ad7",
+    "deck_config_uuid": "7fe4450e-8f4b-11ec-b4eb-c423603b5ad7",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "7fe4450e-8f4b-11ec-b4eb-c423603b5ad7",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Standard",
+            "new": {
+                "bury": true,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 200
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": true,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 2000
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [],
+    "name": "Chemie",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "7fca914a-8f4b-11ec-8218-c423603b5ad7",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Add Reverse",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic Quizlet",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "all",
+                    [
+                        1,
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Normal",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Reverse",
+                    "ord": 1,
+                    "qfmt": "{{#Add Reverse}}{{Back}}{{/Add Reverse}}"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": []
+}
